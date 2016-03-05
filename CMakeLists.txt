@@ -8,5 +8,3 @@ include_directories(include)
 function(target name)
     add_executable(${name} ${name}.cpp)
 endfunction(target)
-
-target(main)
