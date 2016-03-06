@@ -14,3 +14,4 @@ function(target name)
     target_link_libraries(${name} gtest gtest_main)
 endfunction(target)
 
+target(001-two-sum)
