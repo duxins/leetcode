@@ -1,0 +1,58 @@
+//  141. Linked List Cycle
+//  
+//  Given a linked list, determine if it has a cycle in it.
+//  Follow up:
+//  Can you solve it without using extra space?
+//  Subscribe to see which companies asked this question
+//  
+//  Tags: Linked List, Two Pointers
+//  
+//  https://leetcode.com/problems/linked-list-cycle/    
+
+#include <iostream>
+#include <gtest/gtest.h>
+#include <list/list.h>
+
+using namespace std;
+
+class Solution {
+public:
+    bool hasCycle(ListNode *head) {
+        if(head == NULL) return false;
+
+        ListNode *slow = head;
+        ListNode *fast = head->next;
+
+        while(slow && fast && fast->next){
+            if(slow == fast){
+                return true;
+            }
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        return false;
+    }
+};
+
+TEST(leetcode_141_linked_list_cycle, NoCycle)
+{
+    Solution *solution = new Solution();
+    int arr[] = {0, 1, 2, 3, 4, 5};
+    ListNode *head = list_init(arr, 6);
+    EXPECT_FALSE(solution->hasCycle(head));
+}
+
+TEST(leetcode_141_linked_list_cycle, HasCycle)
+{
+    Solution *solution = new Solution();
+    int arr[] = {0, 1, 2, 3, 4, 5};
+    ListNode *head = list_init(arr, 6);
+    list_add_tail(head, head);
+    EXPECT_TRUE(solution->hasCycle(head));
+}
+
+int main(int argc, char *argv[]) {
+    testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
+}

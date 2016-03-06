@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/141-linked-list-cycle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

@@ -18,3 +18,4 @@ function(target name)
 endfunction(target)
 
 target(001-two-sum)
+target(141-linked-list-cycle)
