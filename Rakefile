@@ -28,14 +28,15 @@ task :sync do
     "| #{id} " <<
     "| [#{title}](https://leetcode.com#{href}) " << (locked ? "🔒 " : " ") <<
     "| "  << (finished ? "[Source](./#{target}.cpp) " : " ") << 
+    "| #{difficulty} " << 
     "| "
 
   end
 
   readme_file = File.expand_path("../README.md", __FILE__)
 
-  table = "|   |  #  | Title | Souce |\n" << 
-          "|---|-----|-------|-------|\n" << problems.reverse.join("\n")
+  table = "|   |  #  | Title | Souce |  Difficulty |\n" << 
+          "|---|-----|-------|-------|-------------|\n" << problems.reverse.join("\n")
 
   readme = File.read(readme_file).gsub(/\[\/\/\]: # \(PROBLEMS BEGIN\)(.*)\[\/\/\]: # \(PROBLEMS END\)/m, "[//]: # (PROBLEMS BEGIN)\n\n#{table}\n\n[//]: # (PROBLEMS END)")
 
