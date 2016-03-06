@@ -107,23 +107,51 @@ task :start do
 
   comment = comment.gsub(/^/, "//  ")
 
+  test_name = "leetcode_#{target.gsub(/-/, '_')}"
+
   code = (<<-EOT)
 #{comment}    
 
 #include <iostream>
+#include <gtest/gtest.h>
+
 using namespace std;
 
-int main(int argc, char *argv[]) {
 
-  return 0;
+TEST(#{test_name}, Basic)
+{
+
+}
+
+int main(int argc, char *argv[]) {
+    testing::InitGoogleTest(&argc, argv);
+    return RUN_ALL_TESTS();
 }
   EOT
+
 
   File.write(source_file, code)
 
   cmake_file = File.expand_path('../CMakeLists.txt', __FILE__)
   File.open(cmake_file, 'a') do |file|
-    file.write("target(#{target})")
+    file.write("target(#{target})\n")
+  end
+
+  configuration_file = File.expand_path("../.idea/runConfigurations/#{target.gsub(/-/,'_')}.xml", __FILE__)
+
+  unless File.exists? (configuration_file)
+
+    configuration = (<<-EOT)
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="#{target}" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="leetcode" TARGET_NAME="#{target}" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="#{target}">
+    <envs />
+    <method />
+  </configuration>
+</component>
+    EOT
+
+    File.write(configuration_file, configuration)
+
   end
 
   $stderr.puts 'Done'
