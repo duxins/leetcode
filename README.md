@@ -143,7 +143,7 @@
 |   | 139 | [Word Break](https://leetcode.com/problems/word-break/)  |  | Medium | 
 |   | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/)  |  | Hard | 
 | ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Source](./141-linked-list-cycle.cpp) | Medium | 
-|   | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)  |  | Medium | 
+| ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)  | [Source](./142-linked-list-cycle-ii.cpp) | Medium | 
 |   | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)  |  | Medium | 
 |   | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  |  | Medium | 
 |   | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  |  | Hard | 

@@ -19,3 +19,4 @@ endfunction(target)
 
 target(001-two-sum)
 target(141-linked-list-cycle)
+target(142-linked-list-cycle-ii)
