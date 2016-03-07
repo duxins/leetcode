@@ -25,3 +25,18 @@ ListNode *list_init(int *nums, size_t size){
     }
     return head;
 }
+
+bool list_equal(ListNode *head1, ListNode *head2){
+    ListNode *p = head1;
+    ListNode *q = head2;
+
+    while(p && q){
+        if(p->val != q->val) return false;
+        p = p->next;
+        q = q->next;
+    }
+
+    if(p == NULL && q == NULL) return true;
+
+    return false;
+}
