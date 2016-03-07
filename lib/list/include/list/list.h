@@ -25,4 +25,6 @@ void list_add_tail(ListNode *head, ListNode *node);
 
 bool list_equal(ListNode *head1, ListNode *head2);
 
+void list_print(ListNode *head);
+
 #endif //LEETCODE_LIST_H
