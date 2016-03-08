@@ -84,7 +84,7 @@
 |   | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  |  | Medium | 
 |   | 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  |  | Medium | 
 |   | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)  |  | Medium | 
-|   | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  |  | Easy | 
+| ✅ | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Source](./083-remove-duplicates-from-sorted-list.cpp) | Easy | 
 |   | 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  |  | Hard | 
 |   | 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  |  | Hard | 
 |   | 086 | [Partition List](https://leetcode.com/problems/partition-list/)  |  | Medium | 
