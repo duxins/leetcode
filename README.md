@@ -2,7 +2,7 @@
 
 |   |  #  | Title | Souce |  Difficulty |
 |---|-----|-------|-------|-------------|
-| ✅ | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Source](./001-two-sum.cpp) | Medium | 
+| ✅ | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Source](./001-two-sum.cpp) | Easy | 
 |   | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  | Medium | 
 |   | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  | Medium | 
 |   | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  | Hard | 
@@ -216,7 +216,7 @@
 |   | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)  |  | Easy | 
 |   | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)  |  | Medium | 
 |   | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  | Medium | 
-|   | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  |  | Easy | 
+| ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Source](./231-power-of-two.cpp) | Easy | 
 |   | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  |  | Easy | 
 |   | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)  |  | Medium | 
 |   | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  |  | Easy | 
@@ -320,6 +320,7 @@
 |   | 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) 🔒 |  | Medium | 
 |   | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)  |  | Medium | 
 |   | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)  |  | Medium | 
+|   | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)  |  | Hard | 
 
 [//]: # (PROBLEMS END)
 
