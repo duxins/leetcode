@@ -310,7 +310,7 @@
 |   | 323 | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) 🔒 |  | Medium | 
 |   | 324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)  |  | Medium | 
 |   | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) 🔒 |  | Easy | 
-|   | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)  |  | Easy | 
+| ✅ | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)  | [Source](./326-power-of-three.cpp) | Easy | 
 |   | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)  |  | Hard | 
 |   | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  |  | Easy | 
 |   | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  | Medium | 
