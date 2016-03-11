@@ -28,7 +28,7 @@
 |   | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |  | Medium | 
 |   | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  |  | Hard | 
 |   | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  |  | Easy | 
-|   | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  |  | Easy | 
+| ✅ | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  | [Source](./027-remove-element.cpp) | Easy | 
 |   | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)  |  | Easy | 
 |   | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)  |  | Medium | 
 |   | 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  |  | Hard | 
@@ -218,7 +218,7 @@
 |   | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  | Medium | 
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Source](./231-power-of-two.cpp) | Easy | 
 |   | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  |  | Easy | 
-|   | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)  |  | Medium | 
+|   | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)  |  | Hard | 
 |   | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  |  | Easy | 
 |   | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  |  | Easy | 
 |   | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  |  | Medium | 
@@ -257,7 +257,7 @@
 |   | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) 🔒 |  | Easy | 
 |   | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 |  | Medium | 
 |   | 272 | [Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii/) 🔒 |  | Hard | 
-|   | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)  |  | Medium | 
+|   | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)  |  | Hard | 
 |   | 274 | [H-Index](https://leetcode.com/problems/h-index/)  |  | Medium | 
 |   | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/)  |  | Medium | 
 |   | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) 🔒 |  | Easy | 
@@ -281,7 +281,7 @@
 |   | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) 🔒 |  | Medium | 
 |   | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  |  | Hard | 
 |   | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) 🔒 |  | Hard | 
-|   | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  | Medium | 
+|   | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  | Hard | 
 |   | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) 🔒 |  | Medium | 
 |   | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |  | Easy | 
 |   | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  | Medium | 
@@ -313,7 +313,7 @@
 | ✅ | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)  | [Source](./326-power-of-three.cpp) | Easy | 
 |   | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)  |  | Hard | 
 |   | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  |  | Easy | 
-|   | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  | Medium | 
+|   | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  | Hard | 
 |   | 330 | [Patching Array](https://leetcode.com/problems/patching-array/)  |  | Medium | 
 |   | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)  |  | Medium | 
 |   | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  |  | Medium | 
