@@ -33,6 +33,7 @@ public:
         while(node){
             if(node->val == val){
                 prev->next = node->next;
+                delete node;
             }else{
                 prev = node;
             }
