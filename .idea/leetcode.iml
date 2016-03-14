@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/021-merge-two-sorted-lists.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/169-majority-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/191-number-of-1-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
