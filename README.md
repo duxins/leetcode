@@ -70,7 +70,7 @@
 |   | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  |  | Easy | 
 |   | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  |  | Easy | 
 |   | 068 | [Text Justification](https://leetcode.com/problems/text-justification/)  |  | Hard | 
-|   | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  |  | Medium | 
+| ✅ | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [Source](./069-sqrtx.cpp) | Medium | 
 |   | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  |  | Easy | 
 |   | 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)  |  | Medium | 
 |   | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/)  |  | Hard | 
