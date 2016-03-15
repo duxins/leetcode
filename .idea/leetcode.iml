@@ -13,7 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/203-remove-linked-list-elements.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/019-remove-nth-node-from-end-of-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
     </content>
