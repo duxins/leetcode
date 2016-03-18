@@ -191,7 +191,7 @@
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [Source](./203-remove-linked-list-elements.cpp) | Easy | 
 |   | 204 | [Count Primes](https://leetcode.com/problems/count-primes/)  |  | Easy | 
 |   | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  |  | Easy | 
-|   | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  |  | Easy | 
+| ✅ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | [Source](./206-reverse-linked-list.cpp) | Easy | 
 |   | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  | Medium | 
 |   | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)  |  | Medium | 
 |   | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  |  | Medium | 
@@ -322,6 +322,7 @@
 |   | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)  |  | Medium | 
 |   | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)  |  | Hard | 
 |   | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)  |  | Medium | 
+|   | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
