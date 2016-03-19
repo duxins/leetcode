@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/191-number-of-1-bits.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/206-reverse-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/169-majority-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/list/src/list.cpp" isTestSource="false" />
@@ -19,7 +20,7 @@
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/338-counting-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/203-remove-linked-list-elements.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/141-linked-list-cycle.cpp" isTestSource="false" />

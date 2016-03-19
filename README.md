@@ -322,7 +322,7 @@
 |   | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)  |  | Medium | 
 |   | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)  |  | Hard | 
 |   | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)  |  | Medium | 
-|   | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  |  | Medium | 
+| ✅ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [Source](./338-counting-bits.cpp) | Medium | 
 
 [//]: # (PROBLEMS END)
 
