@@ -67,7 +67,7 @@
 |   | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)  |  | Medium | 
 |   | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  |  | Medium | 
 |   | 065 | [Valid Number](https://leetcode.com/problems/valid-number/)  |  | Hard | 
-|   | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  |  | Easy | 
+| ✅ | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  | [Source](./066-plus-one.cpp) | Easy | 
 |   | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  |  | Easy | 
 |   | 068 | [Text Justification](https://leetcode.com/problems/text-justification/)  |  | Hard | 
 | ✅ | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [Source](./069-sqrtx.cpp) | Medium | 
@@ -300,7 +300,7 @@
 |   | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)  |  | Medium | 
 |   | 314 | [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) 🔒 |  | Medium | 
 |   | 315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)  |  | Hard | 
-|   | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  |  | Medium | 
+|   | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)  |  | Hard | 
 |   | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) 🔒 |  | Hard | 
 |   | 318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)  |  | Medium | 
 |   | 319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)  |  | Medium | 
