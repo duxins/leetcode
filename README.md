@@ -8,7 +8,7 @@
 |   | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  | Hard | 
 |   | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  |  | Medium | 
 |   | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  |  | Easy | 
-|   | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  |  | Easy | 
+| ✅ | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [Source](./007-reverse-integer.cpp) | Easy | 
 |   | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  |  | Easy | 
 |   | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  | Easy | 
 |   | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  |  | Hard | 
