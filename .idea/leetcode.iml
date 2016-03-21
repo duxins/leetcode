@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/206-reverse-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/203-remove-linked-list-elements.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/338-counting-bits.cpp" isTestSource="false" />
@@ -29,7 +30,7 @@
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/019-remove-nth-node-from-end-of-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/021-merge-two-sorted-lists.cpp" isTestSource="false" />
     </content>
@@ -212,7 +213,6 @@
           <root url="file://$MODULE_DIR$/lib/list/src" />
           <root url="file://$MODULE_DIR$/lib/list/include" />
           <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
-          <root url="file://$MODULE_DIR$/include" />
           <root url="file:///Library/Frameworks/iTunesLibrary.framework/Headers" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.2/include" />
@@ -393,7 +393,6 @@
           <root url="file://$MODULE_DIR$/lib/list/src" />
           <root url="file://$MODULE_DIR$/lib/list/include" />
           <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
-          <root url="file://$MODULE_DIR$/include" />
           <root url="file:///Library/Frameworks/iTunesLibrary.framework/Headers" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.2/include" />
