@@ -27,7 +27,7 @@
 |   | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  | Hard | 
 |   | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |  | Medium | 
 |   | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  |  | Hard | 
-|   | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  |  | Easy | 
+| ✅ | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Source](./026-remove-duplicates-from-sorted-array.cpp) | Easy | 
 | ✅ | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  | [Source](./027-remove-element.cpp) | Easy | 
 |   | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/)  |  | Easy | 
 |   | 029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)  |  | Medium | 

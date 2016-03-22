@@ -8,8 +8,6 @@ include_directories(lib/list/include lib/list/src)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-include_directories(include)
-
 add_library(linked_list lib/list/src/list.cpp)
 
 function(target name)
@@ -41,4 +39,5 @@ target(160-intersection-of-two-linked-lists)
 target(066-plus-one)
 target(007-reverse-integer)
 target(070-climbing-stairs)
+target(026-remove-duplicates-from-sorted-array)
 target(190-reverse-bits)
