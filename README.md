@@ -25,7 +25,7 @@
 | ✅ | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Source](./021-merge-two-sorted-lists.cpp) | Easy | 
 |   | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  | Medium | 
 |   | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  | Hard | 
-|   | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |  | Medium | 
+|   | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |  | Easy | 
 |   | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  |  | Hard | 
 | ✅ | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Source](./026-remove-duplicates-from-sorted-array.cpp) | Easy | 
 | ✅ | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  | [Source](./027-remove-element.cpp) | Easy | 
@@ -172,7 +172,7 @@
 | ✅ | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [Source](./168-excel-sheet-column-title.cpp) | Easy | 
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)  | [Source](./169-majority-element.cpp) | Easy | 
 |   | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔒 |  | Easy | 
-|   | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  |  | Easy | 
+| ✅ | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [Source](./171-excel-sheet-column-number.cpp) | Easy | 
 |   | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)  |  | Easy | 
 |   | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)  |  | Medium | 
 |   | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  |  | Hard | 
