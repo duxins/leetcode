@@ -25,7 +25,7 @@
 | ✅ | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Source](./021-merge-two-sorted-lists.cpp) | Easy | 
 |   | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  | Medium | 
 |   | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  | Hard | 
-|   | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  |  | Easy | 
+| ✅ | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [Source](./024-swap-nodes-in-pairs.cpp) | Easy | 
 |   | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  |  | Hard | 
 | ✅ | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Source](./026-remove-duplicates-from-sorted-array.cpp) | Easy | 
 | ✅ | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  | [Source](./027-remove-element.cpp) | Easy | 
