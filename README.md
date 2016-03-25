@@ -202,7 +202,7 @@
 |   | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)  |  | Hard | 
 |   | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)  |  | Medium | 
 |   | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  |  | Medium | 
-|   | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  |  | Easy | 
+| ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Source](./217-contains-duplicate.cpp) | Easy | 
 |   | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)  |  | Hard | 
 |   | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  |  | Easy | 
 |   | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)  |  | Medium | 
