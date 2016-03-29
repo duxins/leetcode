@@ -243,7 +243,7 @@
 |   | 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) 🔒 |  | Medium | 
 |   | 256 | [Paint House](https://leetcode.com/problems/paint-house/) 🔒 |  | Medium | 
 |   | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)  |  | Easy | 
-|   | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)  |  | Easy | 
+| ✅ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)  | [Source](./258-add-digits.cpp) | Easy | 
 |   | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) 🔒 |  | Medium | 
 |   | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/)  |  | Medium | 
 |   | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 🔒 |  | Medium | 

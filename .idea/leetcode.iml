@@ -11,7 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/082-remove-duplicates-from-sorted-list-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/258-add-digits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/007-reverse-integer.cpp" isTestSource="false" />
@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
