@@ -87,7 +87,7 @@
 | ✅ | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Source](./083-remove-duplicates-from-sorted-list.cpp) | Easy | 
 |   | 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  |  | Hard | 
 |   | 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  |  | Hard | 
-|   | 086 | [Partition List](https://leetcode.com/problems/partition-list/)  |  | Medium | 
+| ✅ | 086 | [Partition List](https://leetcode.com/problems/partition-list/)  | [Source](./086-partition-list.cpp) | Medium | 
 |   | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/)  |  | Hard | 
 |   | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  |  | Easy | 
 |   | 089 | [Gray Code](https://leetcode.com/problems/gray-code/)  |  | Medium | 
