@@ -247,7 +247,7 @@
 |   | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) 🔒 |  | Medium | 
 |   | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/)  |  | Medium | 
 |   | 261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) 🔒 |  | Medium | 
-|   | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)  |  | Easy | 
+| ✅ | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)  | [Source](./263-ugly-number.cpp) | Easy | 
 |   | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)  |  | Medium | 
 |   | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) 🔒 |  | Hard | 
 |   | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒 |  | Easy | 
@@ -323,6 +323,7 @@
 |   | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)  |  | Hard | 
 |   | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)  |  | Medium | 
 | ✅ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [Source](./338-counting-bits.cpp) | Medium | 
+|   | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔒 |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
