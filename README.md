@@ -59,7 +59,7 @@
 |   | 055 | [Jump Game](https://leetcode.com/problems/jump-game/)  |  | Medium | 
 |   | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  | Hard | 
 |   | 057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)  |  | Hard | 
-|   | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  |  | Easy | 
+| ✅ | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [Source](./058-length-of-last-word.cpp) | Easy | 
 |   | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  |  | Medium | 
 |   | 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  |  | Medium | 
 |   | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/)  |  | Medium | 
