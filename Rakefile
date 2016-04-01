@@ -38,7 +38,7 @@ task :sync do
 
   total = problems.count
   finished = problems.count {|p| p.match(/✅/) }
-  badge = "![Progress](https://img.shields.io/badge/Progress-#{finished}%2F#{total}-brightgreen.svg)"
+  badge = "![Progress](https://img.shields.io/badge/Progress-#{finished}%2F#{total}-blue.svg)"
 
   table = "|   |  #  | Title | Souce |  Difficulty |\n" << 
           "|---|-----|-------|-------|-------------|\n" << problems.reverse.join("\n")

@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-38%2F322-brightgreen.svg)
+![Progress](https://img.shields.io/badge/Progress-38%2F322-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
