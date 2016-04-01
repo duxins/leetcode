@@ -33,12 +33,18 @@ task :sync do
 
   end
 
+
   readme_file = File.expand_path("../README.md", __FILE__)
+
+  total = problems.count
+  finished = problems.count {|p| p.match(/✅/) }
+  badge = "![Progress](https://img.shields.io/badge/Progress-#{finished}%2F#{total}-brightgreen.svg)"
 
   table = "|   |  #  | Title | Souce |  Difficulty |\n" << 
           "|---|-----|-------|-------|-------------|\n" << problems.reverse.join("\n")
 
   readme = File.read(readme_file).gsub(/\[\/\/\]: # \(PROBLEMS BEGIN\)(.*)\[\/\/\]: # \(PROBLEMS END\)/m, "[//]: # (PROBLEMS BEGIN)\n\n#{table}\n\n[//]: # (PROBLEMS END)")
+  readme = readme.gsub(/^!\[Progress\].*$/, badge)
 
   File.write(readme_file, readme)
 
