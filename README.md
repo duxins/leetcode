@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-38%2F322-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-39%2F322-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -54,7 +54,7 @@
 |   | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/)  |  | Medium | 
 |   | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)  |  | Medium | 
 |   | 049 | [Group Anagrams](https://leetcode.com/problems/anagrams/)  |  | Medium | 
-|   | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)  |  | Medium | 
+| ✅ | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)  | [Source](./050-powx-n.cpp) | Medium | 
 |   | 051 | [N-Queens](https://leetcode.com/problems/n-queens/)  |  | Hard | 
 |   | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)  |  | Hard | 
 |   | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  |  | Medium | 
