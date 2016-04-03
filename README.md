@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-39%2F322-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-40%2F323-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -71,7 +71,7 @@
 |   | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  |  | Medium | 
 |   | 065 | [Valid Number](https://leetcode.com/problems/valid-number/)  |  | Hard | 
 | ✅ | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  | [Source](./066-plus-one.cpp) | Easy | 
-|   | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  |  | Easy | 
+| ✅ | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  | [Source](./067-add-binary.cpp) | Easy | 
 |   | 068 | [Text Justification](https://leetcode.com/problems/text-justification/)  |  | Hard | 
 | ✅ | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [Source](./069-sqrtx.cpp) | Medium | 
 | ✅ | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Source](./070-climbing-stairs.cpp) | Easy | 
@@ -212,11 +212,11 @@
 |   | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/)  |  | Medium | 
 |   | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  |  | Medium | 
 |   | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)  |  | Easy | 
-|   | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)  |  | Medium | 
+|   | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)  |  | Hard | 
 |   | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  |  | Easy | 
 |   | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  |  | Easy | 
 |   | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)  |  | Medium | 
-|   | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)  |  | Easy | 
+|   | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)  |  | Medium | 
 |   | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)  |  | Medium | 
 |   | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  | Medium | 
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Source](./231-power-of-two.cpp) | Easy | 
@@ -315,7 +315,7 @@
 |   | 325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) 🔒 |  | Easy | 
 | ✅ | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/)  | [Source](./326-power-of-three.cpp) | Easy | 
 |   | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)  |  | Hard | 
-| ✅ | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [Source](./328-odd-even-linked-list.cpp) | Easy | 
+| ✅ | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [Source](./328-odd-even-linked-list.cpp) | Medium | 
 |   | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  | Hard | 
 |   | 330 | [Patching Array](https://leetcode.com/problems/patching-array/)  |  | Medium | 
 |   | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)  |  | Medium | 
@@ -327,6 +327,7 @@
 |   | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)  |  | Medium | 
 | ✅ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [Source](./338-counting-bits.cpp) | Medium | 
 |   | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔒 |  | Easy | 
+|   | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔒 |  | Hard | 
 
 [//]: # (PROBLEMS END)
 
