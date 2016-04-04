@@ -38,16 +38,14 @@ public:
 TEST(leetcode_141_linked_list_cycle, NoCycle)
 {
     Solution *solution = new Solution();
-    int arr[] = {0, 1, 2, 3, 4, 5};
-    ListNode *head = list_init(arr, 6);
+    ListNode *head = list_init("0, 1, 2, 3, 4, 5");
     EXPECT_FALSE(solution->hasCycle(head));
 }
 
 TEST(leetcode_141_linked_list_cycle, HasCycle)
 {
     Solution *solution = new Solution();
-    int arr[] = {0, 1, 2, 3, 4, 5};
-    ListNode *head = list_init(arr, 6);
+    ListNode *head = list_init("0, 1, 2, 3, 4, 5");
     list_add_tail(head, head);
     EXPECT_TRUE(solution->hasCycle(head));
 }

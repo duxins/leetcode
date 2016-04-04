@@ -47,8 +47,8 @@ TEST(leetcode_082_remove_duplicates_from_sorted_list_ii, Basic)
     int nums1[] = {1, 2, 3, 3, 4, 4, 5};
     int nums2[] = {1, 2, 5};
 
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
-    ListNode *expected = list_init(nums2, sizeof(nums2)/ sizeof(int));
+    ListNode *head = list_init("1, 2, 3, 3, 4, 4, 5");
+    ListNode *expected = list_init("1, 2, 5");
     ListNode *result = solution->deleteDuplicates(head);
     EXPECT_TRUE(list_equal(expected, result));
 }

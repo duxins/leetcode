@@ -48,11 +48,8 @@ TEST(leetcode_203_remove_linked_list_elements, Basic)
 {
     Solution *sol = new Solution();
 
-    int nums1[] = {1, 2, 6, 3, 4, 5, 6};
-    int nums2[] =  {1, 2, 3, 4, 5};
-
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
-    ListNode *expected = list_init(nums2, sizeof(nums2)/sizeof(int));
+    ListNode *head = list_init("1, 2, 6, 3, 4, 5, 6");
+    ListNode *expected = list_init("1, 2, 3, 4, 5");
     ListNode *result = sol->removeElements(head, 6);
     EXPECT_TRUE(list_equal(expected, result));
 }
@@ -61,9 +58,7 @@ TEST(leetcode_203_remove_linked_list_elements, Basic2)
 {
     Solution *sol = new Solution();
 
-    int nums1[] = {6, 6, 6, 6,6};
-
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
+    ListNode *head = list_init("6, 6, 6, 6, 6, 6");
     ListNode *result = sol->removeElements(head, 6);
     EXPECT_EQ(NULL, result);
 }
@@ -72,11 +67,8 @@ TEST(leetcode_203_remove_linked_list_elements, Basic3)
 {
     Solution *sol = new Solution();
 
-    int nums1[] = {6, 6, 6, 6, 1};
-    int nums2[] =  {1};
-
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
-    ListNode *expected = list_init(nums2, sizeof(nums2)/sizeof(int));
+    ListNode *head = list_init("6, 6, 6, 6, 1");
+    ListNode *expected = list_init("1");
     ListNode *result = sol->removeElements(head, 6);
     EXPECT_TRUE(list_equal(expected, result));
 }

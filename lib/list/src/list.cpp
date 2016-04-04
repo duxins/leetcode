@@ -3,6 +3,7 @@
 //
 
 #include <cstdio>
+#include <string>
 #include "list/list.h"
 
 void list_add_tail(ListNode *head, ListNode *node){
@@ -24,6 +25,29 @@ ListNode *list_init(int *nums, size_t size){
         prev->next = p;
         prev = p;
     }
+    return head;
+}
+
+ListNode *list_init(std::string str){
+    ListNode *dummy = new ListNode(-1);
+    ListNode *prev = dummy;
+    int n = 0;
+    for(auto c: str){
+        if(!isdigit(c) && c != ',') continue;
+        if(c == ','){
+            ListNode *node = new ListNode(n);
+            prev->next = node;
+            prev = node;
+            n = 0;
+        }else{
+            n = n * 10 + (c - '0');
+        }
+    }
+    if(n > 0){
+        prev->next = new ListNode(n);
+    }
+    ListNode *head = dummy->next;
+    delete dummy;
     return head;
 }
 

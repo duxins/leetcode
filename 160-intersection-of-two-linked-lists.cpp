@@ -78,14 +78,10 @@ TEST(leetcode_160_intersection_of_two_linked_lists, Basic)
 //  4:      4 →  4  →  4 → 4
 
     Solution *solution = new Solution();
-    int num1[] = {1, 1};
-    int num2[] = {2, 2, 2};
-    int num3[] = {3, 3};
-    int num4[] = {4, 4, 4, 4};
-    ListNode *list1 = list_init(num1, 1);
-    ListNode *list2 = list_init(num2, 3);
-    ListNode *list3 = list_init(num3, 2);
-    ListNode *list4 = list_init(num4, 4);
+    ListNode *list1 = list_init("1, 1");
+    ListNode *list2 = list_init("2, 2, 2");
+    ListNode *list3 = list_init("3, 3");
+    ListNode *list4 = list_init("4, 4, 4, 4");
     list_add_tail(list1, list3);
     list_add_tail(list2, list3);
 

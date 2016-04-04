@@ -60,10 +60,8 @@ public:
 TEST(leetcode_086_partition_list, Basic)
 {
     Solution *solution = new Solution();
-    int nums1[] = {1, 4, 3, 2, 5, 2};
-    int nums2[] = {1, 2, 2, 4, 3, 5};
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
-    ListNode *expected = list_init(nums2, sizeof(nums2)/sizeof(int));
+    ListNode *head = list_init("1, 4, 3, 2, 5, 2");
+    ListNode *expected = list_init("1, 2, 2, 4, 3, 5");
     EXPECT_TRUE(list_equal(expected, solution->partition(head, 3)));
 }
 

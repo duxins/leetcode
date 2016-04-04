@@ -62,11 +62,9 @@ public:
 TEST(leetcode_092_reverse_linked_list_ii, Basic)
 {
     Solution *solution = new Solution();
-    int nums1[] = {1, 2, 3, 4, 5};
-    int nums2[] = {1, 4, 3, 2, 5};
 
-    ListNode *head = list_init(nums1, 5);
-    ListNode *expected = list_init(nums2, 5);
+    ListNode *head = list_init("1, 2, 3, 4, 5");
+    ListNode *expected = list_init("1, 4, 3, 2, 5");
     EXPECT_TRUE(list_equal(expected, solution->reverseBetween(head, 2, 4)));
 }
 

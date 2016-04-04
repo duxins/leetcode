@@ -48,11 +48,9 @@ public:
 TEST(leetcode_328_odd_even_linked_list, Basic)
 {
     Solution *solution = new Solution();
-    int nums1[] = {1, 2, 3, 4, 5};
-    int nums2[] = {1, 3, 5, 2, 4};
 
-    ListNode *head = list_init(nums1, sizeof(nums1)/sizeof(int));
-    ListNode *expected = list_init(nums2, sizeof(nums2)/sizeof(int));
+    ListNode *head = list_init("1, 2, 3, 4, 5");
+    ListNode *expected = list_init("1, 3, 5, 2, 4");
 
     ListNode *result = solution->oddEvenList(head);
 

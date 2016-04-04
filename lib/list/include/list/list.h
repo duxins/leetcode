@@ -21,6 +21,8 @@ struct LinkedList {
 
 ListNode *list_init(int *nums, size_t size);
 
+ListNode *list_init(std::string str);
+
 void list_add_tail(ListNode *head, ListNode *node);
 
 bool list_equal(ListNode *head1, ListNode *head2);
