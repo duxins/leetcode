@@ -35,6 +35,8 @@
       <sourceFolder url="file://$MODULE_DIR$/141-linked-list-cycle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/263-ugly-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/100-same-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/tree/src/tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/list/src/list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest_main.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest-all.cc" isTestSource="false" />
@@ -226,6 +228,8 @@
           <root url="file:///System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
           <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/lib/tree/src" />
+          <root url="file://$MODULE_DIR$/lib/tree/include" />
           <root url="file://$MODULE_DIR$/lib/list/src" />
           <root url="file://$MODULE_DIR$/lib/list/include" />
           <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
@@ -406,6 +410,8 @@
           <root url="file:///System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
           <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
+          <root url="file://$MODULE_DIR$/lib/tree/src" />
+          <root url="file://$MODULE_DIR$/lib/tree/include" />
           <root url="file://$MODULE_DIR$/lib/list/src" />
           <root url="file://$MODULE_DIR$/lib/list/include" />
           <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
@@ -414,6 +420,7 @@
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.0.2/include" />
         </SOURCES>
         <excluded>
+          <root url="file://$MODULE_DIR$/lib/tree/src/tree.cpp" />
           <root url="file://$MODULE_DIR$/lib/list/src/list.cpp" />
         </excluded>
       </library>
