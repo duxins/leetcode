@@ -3,8 +3,6 @@
 //
 
 #include "tree/tree.h"
-#include <string>
-#include <vector>
 #include <queue>
 
 //Taken from http://stackoverflow.com/q/23754060/575163
@@ -38,5 +36,12 @@ TreeNode *tree_init(std::vector<std::string> nodes){
 
     return root;
 
+}
+
+bool tree_equal(TreeNode *p, TreeNode *q) {
+    if(p == q) return true;
+    if(p == NULL || q == NULL) return false;
+    if(p->val != q->val) return false;
+    return tree_equal(p->left, q->left) && tree_equal(p->right, q->right);
 }
 
