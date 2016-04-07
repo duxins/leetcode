@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-44%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-45%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -207,7 +207,7 @@
 |   | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  |  | Medium | 
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  | [Source](./217-contains-duplicate.cpp) | Easy | 
 |   | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)  |  | Hard | 
-|   | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  |  | Easy | 
+| ✅ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | [Source](./219-contains-duplicate-ii.cpp) | Easy | 
 |   | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)  |  | Medium | 
 |   | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/)  |  | Medium | 
 |   | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  |  | Medium | 
