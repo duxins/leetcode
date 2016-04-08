@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-45%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-46%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -108,7 +108,7 @@
 |   | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  |  | Easy | 
 |   | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  | Easy | 
 |   | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  |  | Medium | 
-|   | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  |  | Easy | 
+| ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Source](./104-maximum-depth-of-binary-tree.cpp) | Easy | 
 |   | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  | Medium | 
 |   | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  |  | Medium | 
 |   | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  |  | Easy | 
