@@ -13,7 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/082-remove-duplicates-from-sorted-list-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/202-happy-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/104-maximum-depth-of-binary-tree.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/020-valid-parentheses.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/258-add-digits.cpp" isTestSource="false" />
@@ -51,6 +51,7 @@
       <sourceFolder url="file://$MODULE_DIR$/111-minimum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/024-swap-nodes-in-pairs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/058-length-of-last-word.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
