@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-48%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-49%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -255,7 +255,7 @@
 |   | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) 🔒 |  | Hard | 
 |   | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒 |  | Easy | 
 |   | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) 🔒 |  | Medium | 
-|   | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)  |  | Medium | 
+| ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)  | [Source](./268-missing-number.cpp) | Medium | 
 |   | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) 🔒 |  | Hard | 
 |   | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) 🔒 |  | Easy | 
 |   | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 |  | Medium | 
