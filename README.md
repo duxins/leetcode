@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-49%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-50%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -148,7 +148,7 @@
 | ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Source](./141-linked-list-cycle.cpp) | Medium | 
 | ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)  | [Source](./142-linked-list-cycle-ii.cpp) | Medium | 
 |   | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)  |  | Medium | 
-|   | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  |  | Medium | 
+| ✅ | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [Source](./144-binary-tree-preorder-traversal.cpp) | Medium | 
 |   | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)  |  | Hard | 
 |   | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  | Hard | 
 |   | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)  |  | Medium | 
@@ -322,7 +322,7 @@
 |   | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  |  | Medium | 
 |   | 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) 🔒 |  | Medium | 
 |   | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)  |  | Medium | 
-|   | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)  |  | Medium | 
+|   | 335 | [Self Crossing](https://leetcode.com/problems/self-crossing/)  |  | Hard | 
 |   | 336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)  |  | Hard | 
 |   | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/)  |  | Medium | 
 | ✅ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [Source](./338-counting-bits.cpp) | Medium | 
