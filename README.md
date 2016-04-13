@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-50%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-51%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -98,7 +98,7 @@
 |   | 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)  |  | Medium | 
 | ✅ | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)  | [Source](./092-reverse-linked-list-ii.cpp) | Medium | 
 |   | 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)  |  | Medium | 
-|   | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  |  | Medium | 
+| ✅ | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Source](./094-binary-tree-inorder-traversal.cpp) | Medium | 
 |   | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)  |  | Medium | 
 |   | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  |  | Medium | 
 |   | 097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)  |  | Hard | 
