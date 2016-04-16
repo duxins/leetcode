@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-53%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-54%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -92,7 +92,7 @@
 |   | 085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)  |  | Hard | 
 | ✅ | 086 | [Partition List](https://leetcode.com/problems/partition-list/)  | [Source](./086-partition-list.cpp) | Medium | 
 |   | 087 | [Scramble String](https://leetcode.com/problems/scramble-string/)  |  | Hard | 
-|   | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  |  | Easy | 
+| ✅ | 088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  | [Source](./088-merge-sorted-array.cpp) | Easy | 
 |   | 089 | [Gray Code](https://leetcode.com/problems/gray-code/)  |  | Medium | 
 |   | 090 | [Subsets II](https://leetcode.com/problems/subsets-ii/)  |  | Medium | 
 |   | 091 | [Decode Ways](https://leetcode.com/problems/decode-ways/)  |  | Medium | 
@@ -328,7 +328,7 @@
 | ✅ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/)  | [Source](./338-counting-bits.cpp) | Medium | 
 |   | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔒 |  | Easy | 
 |   | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔒 |  | Hard | 
-|   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) 🔒 |  | Medium | 
+|   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
