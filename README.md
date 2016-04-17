@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-54%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-55%2F324-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -105,7 +105,7 @@
 |   | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  | Medium | 
 |   | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)  |  | Hard | 
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Source](./100-same-tree.cpp) | Easy | 
-|   | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  |  | Easy | 
+| ✅ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  | [Source](./101-symmetric-tree.cpp) | Easy | 
 | ✅ | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | [Source](./102-binary-tree-level-order-traversal.cpp) | Easy | 
 |   | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  |  | Medium | 
 | ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Source](./104-maximum-depth-of-binary-tree.cpp) | Easy | 
