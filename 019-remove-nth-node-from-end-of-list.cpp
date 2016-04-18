@@ -23,10 +23,11 @@ using namespace std;
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode *p = new ListNode(0);
-        p->next = head;
-        ListNode *fast = p;
-        ListNode *slow = p;
+        ListNode *dummy = new ListNode(-1);
+        dummy->next = head;
+
+        ListNode *fast = dummy;
+        ListNode *slow = dummy;
 
         for (int i = 0; i < n; ++i) {
             fast = fast->next;
@@ -37,21 +38,24 @@ public:
             fast = fast->next;
         }
 
-        slow->next = slow->next->next;
-        return p->next;
+        ListNode *deleted = slow->next;
+        slow->next = deleted->next;
+        delete deleted;
+        return dummy->next;
     }
 };
 
 TEST(leetcode_019_remove_nth_node_from_end_of_list, Basic)
 {
-    int nums1[] = {1, 2, 3, 4, 5};
-    int nums2[] = {1, 2, 3, 5};
-
     Solution *solution = new Solution();
-    ListNode *list = list_init(nums1, 5);
-    ListNode *result = solution->removeNthFromEnd(list, 2);
-    ListNode *expected = list_init(nums2, 4);
-    EXPECT_TRUE(list_equal(expected, result));
+    ListNode *result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 2);
+    EXPECT_TRUE(list_equal(list_init("1, 2, 3, 5"), result));
+
+    result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 1);
+    EXPECT_TRUE(list_equal(list_init("1, 2, 3, 4"), result));
+
+    result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 5);
+    EXPECT_TRUE(list_equal(list_init("2, 3, 4, 5"), result));
 }
 
 int main(int argc, char *argv[]) {
