@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-55%2F324-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-56%2F325-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -122,7 +122,7 @@
 |   | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)  |  | Hard | 
 |   | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  | Medium | 
 |   | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)  |  | Hard | 
-|   | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  |  | Easy | 
+| ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [Source](./118-pascals-triangle.cpp) | Easy | 
 |   | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  |  | Easy | 
 |   | 120 | [Triangle](https://leetcode.com/problems/triangle/)  |  | Medium | 
 |   | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  | Easy | 
@@ -329,6 +329,7 @@
 |   | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔒 |  | Easy | 
 |   | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔒 |  | Hard | 
 |   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  |  | Medium | 
+|   | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
