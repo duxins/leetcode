@@ -61,6 +61,7 @@
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/144-binary-tree-preorder-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/342-power-of-four.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />

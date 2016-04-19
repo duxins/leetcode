@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-56%2F325-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-57%2F326-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -329,7 +329,8 @@
 |   | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔒 |  | Easy | 
 |   | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔒 |  | Hard | 
 |   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  |  | Medium | 
-|   | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)  |  | Easy | 
+| ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)  | [Source](./342-power-of-four.cpp) | Easy | 
+|   | 343 | [Integer Break](https://leetcode.com/problems/integer-break/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
