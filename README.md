@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-58%2F326-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-59%2F326-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -265,7 +265,7 @@
 |   | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/)  |  | Medium | 
 |   | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) 🔒 |  | Easy | 
 |   | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) 🔒 |  | Medium | 
-|   | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  |  | Easy | 
+| ✅ | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [Source](./278-first-bad-version.cpp) | Easy | 
 |   | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  |  | Medium | 
 |   | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) 🔒 |  | Medium | 
 |   | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) 🔒 |  | Medium | 
