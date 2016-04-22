@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-59%2F327-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-60%2F327-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -331,7 +331,7 @@
 |   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  |  | Medium | 
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)  | [Source](./342-power-of-four.cpp) | Easy | 
 |   | 343 | [Integer Break](https://leetcode.com/problems/integer-break/)  |  | Medium | 
-|   | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  |  | Easy | 
+| ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [Source](./344-reverse-string.cpp) | Easy | 
 
 [//]: # (PROBLEMS END)
 
