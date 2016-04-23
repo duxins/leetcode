@@ -34,6 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/002-add-two-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/225-implement-stack-using-queues.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/345-reverse-vowels-of-a-string.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
