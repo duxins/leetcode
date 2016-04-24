@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-61%2F328-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-62%2F328-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -193,7 +193,7 @@
 | ✅ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Source](./202-happy-number.cpp) | Easy | 
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [Source](./203-remove-linked-list-elements.cpp) | Easy | 
 |   | 204 | [Count Primes](https://leetcode.com/problems/count-primes/)  |  | Easy | 
-|   | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  |  | Easy | 
+| ✅ | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | [Source](./205-isomorphic-strings.cpp) | Easy | 
 | ✅ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | [Source](./206-reverse-linked-list.cpp) | Easy | 
 |   | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  | Medium | 
 |   | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)  |  | Medium | 
