@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/007-reverse-integer.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/342-power-of-four.cpp" isTestSource="false" />
@@ -55,7 +56,7 @@
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268-missing-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/165-compare-version-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/219-contains-duplicate-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
