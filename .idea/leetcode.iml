@@ -16,10 +16,10 @@
       <sourceFolder url="file://$MODULE_DIR$/019-remove-nth-node-from-end-of-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-merge-sorted-array.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/338-counting-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/066-plus-one.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205-isomorphic-strings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/007-reverse-integer.cpp" isTestSource="false" />
@@ -44,6 +44,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest-all.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/020-valid-parentheses.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/082-remove-duplicates-from-sorted-list-ii.cpp" isTestSource="false" />
@@ -52,7 +53,7 @@
       <sourceFolder url="file://$MODULE_DIR$/206-reverse-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/118-pascals-triangle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/171-excel-sheet-column-number.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/338-counting-bits.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268-missing-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/069-sqrtx.cpp" isTestSource="false" />
@@ -249,11 +250,6 @@
           <root url="file:///System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
           <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
-          <root url="file://$MODULE_DIR$/lib/tree/src" />
-          <root url="file://$MODULE_DIR$/lib/tree/include" />
-          <root url="file://$MODULE_DIR$/lib/list/src" />
-          <root url="file://$MODULE_DIR$/lib/list/include" />
-          <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
           <root url="file:///Library/Frameworks/iTunesLibrary.framework/Headers" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
@@ -431,19 +427,10 @@
           <root url="file:///System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
           <root url="file:///usr/include" />
           <root url="file:///usr/local/include" />
-          <root url="file://$MODULE_DIR$/lib/tree/src" />
-          <root url="file://$MODULE_DIR$/lib/tree/include" />
-          <root url="file://$MODULE_DIR$/lib/list/src" />
-          <root url="file://$MODULE_DIR$/lib/list/include" />
-          <root url="file://$MODULE_DIR$/lib/gtest-1.7.0/include" />
           <root url="file:///Library/Frameworks/iTunesLibrary.framework/Headers" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include" />
           <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/7.3.0/include" />
         </SOURCES>
-        <excluded>
-          <root url="file://$MODULE_DIR$/lib/tree/src/tree.cpp" />
-          <root url="file://$MODULE_DIR$/lib/list/src/list.cpp" />
-        </excluded>
       </library>
     </orderEntry>
   </component>

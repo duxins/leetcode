@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-63%2F328-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-64%2F328-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -125,7 +125,7 @@
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [Source](./118-pascals-triangle.cpp) | Easy | 
 |   | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  |  | Easy | 
 |   | 120 | [Triangle](https://leetcode.com/problems/triangle/)  |  | Medium | 
-|   | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  |  | Easy | 
+| ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Source](./121-best-time-to-buy-and-sell-stock.cpp) | Easy | 
 |   | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  |  | Medium | 
 |   | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)  |  | Hard | 
 |   | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  | Hard | 
