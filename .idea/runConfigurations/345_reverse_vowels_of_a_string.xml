@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="345-reverse-vowels-of-a-string" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="leetcode" TARGET_NAME="345-reverse-vowels-of-a-string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="345-reverse-vowels-of-a-string">
+  <configuration default="false" name="345-reverse-vowels-of-a-string" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcode" TARGET_NAME="345-reverse-vowels-of-a-string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="345-reverse-vowels-of-a-string">
     <envs />
     <method />
   </configuration>
