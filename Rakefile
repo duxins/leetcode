@@ -150,12 +150,14 @@ int main(int argc, char *argv[]) {
 
     configuration = (<<-EOT)
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="#{target}" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="FALSE" PROJECT_NAME="leetcode" TARGET_NAME="#{target}" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="#{target}">
+  <configuration default="false" name="#{target}" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="#{target}" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="#{target}">
     <envs />
     <method />
   </configuration>
 </component>
     EOT
+
+    configuration.chomp!
 
     File.write(configuration_file, configuration)
 
