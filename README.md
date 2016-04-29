@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-66%2F328-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-67%2F328-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -12,7 +12,7 @@
 |   | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  |  | Medium | 
 |   | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  |  | Easy | 
 | ✅ | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [Source](./007-reverse-integer.cpp) | Easy | 
-|   | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  |  | Easy | 
+| ✅ | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [Source](./008-string-to-integer-atoi.cpp) | Easy | 
 |   | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  |  | Easy | 
 |   | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  |  | Hard | 
 |   | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  |  | Medium | 
