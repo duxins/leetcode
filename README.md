@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-67%2F328-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-68%2F328-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -57,7 +57,7 @@
 | ✅ | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)  | [Source](./050-powx-n.cpp) | Medium | 
 |   | 051 | [N-Queens](https://leetcode.com/problems/n-queens/)  |  | Hard | 
 |   | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)  |  | Hard | 
-|   | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  |  | Medium | 
+| ✅ | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [Source](./053-maximum-subarray.cpp) | Medium | 
 |   | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |  | Medium | 
 |   | 055 | [Jump Game](https://leetcode.com/problems/jump-game/)  |  | Medium | 
 |   | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  | Hard | 
