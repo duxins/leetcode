@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-68%2F328-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-68%2F329-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -333,6 +333,7 @@
 |   | 343 | [Integer Break](https://leetcode.com/problems/integer-break/)  |  | Medium | 
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [Source](./344-reverse-string.cpp) | Easy | 
 | ✅ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | [Source](./345-reverse-vowels-of-a-string.cpp) | Easy | 
+|   | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔒 |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
