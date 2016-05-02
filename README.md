@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-69%2F329-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-69%2F330-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -145,7 +145,7 @@
 |   | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  | Hard | 
 |   | 139 | [Word Break](https://leetcode.com/problems/word-break/)  |  | Medium | 
 |   | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/)  |  | Hard | 
-| ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Source](./141-linked-list-cycle.cpp) | Medium | 
+| ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Source](./141-linked-list-cycle.cpp) | Easy | 
 | ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)  | [Source](./142-linked-list-cycle-ii.cpp) | Medium | 
 |   | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)  |  | Medium | 
 | ✅ | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [Source](./144-binary-tree-preorder-traversal.cpp) | Medium | 
@@ -334,6 +334,7 @@
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [Source](./344-reverse-string.cpp) | Easy | 
 | ✅ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | [Source](./345-reverse-vowels-of-a-string.cpp) | Easy | 
 |   | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔒 |  | Easy | 
+|   | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
