@@ -29,6 +29,7 @@
       <sourceFolder url="file://$MODULE_DIR$/238-product-of-array-except-self.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/102-binary-tree-level-order-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/225-implement-stack-using-queues.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/223-rectangle-area.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />

@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-70%2F330-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-71%2F330-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -211,7 +211,7 @@
 |   | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)  |  | Medium | 
 |   | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/)  |  | Medium | 
 |   | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  |  | Medium | 
-|   | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)  |  | Easy | 
+| ✅ | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)  | [Source](./223-rectangle-area.cpp) | Easy | 
 |   | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)  |  | Hard | 
 | ✅ | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  | [Source](./225-implement-stack-using-queues.cpp) | Easy | 
 | ✅ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  | [Source](./226-invert-binary-tree.cpp) | Easy | 
