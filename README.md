@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-72%2F330-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-72%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -335,6 +335,7 @@
 | ✅ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | [Source](./345-reverse-vowels-of-a-string.cpp) | Easy | 
 |   | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔒 |  | Easy | 
 |   | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  | Medium | 
+|   | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
