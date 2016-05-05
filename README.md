@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-72%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-73%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -123,7 +123,7 @@
 |   | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  | Medium | 
 |   | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)  |  | Hard | 
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [Source](./118-pascals-triangle.cpp) | Easy | 
-|   | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  |  | Easy | 
+| ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  | [Source](./119-pascals-triangle-ii.cpp) | Easy | 
 |   | 120 | [Triangle](https://leetcode.com/problems/triangle/)  |  | Medium | 
 | ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Source](./121-best-time-to-buy-and-sell-stock.cpp) | Easy | 
 | ✅ | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Source](./122-best-time-to-buy-and-sell-stock-ii.cpp) | Medium | 
