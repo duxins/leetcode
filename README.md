@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-75%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-76%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -114,7 +114,7 @@
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [Source](./107-binary-tree-level-order-traversal-ii.cpp) | Easy | 
 |   | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  |  | Medium | 
 |   | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |  | Medium | 
-|   | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  |  | Easy | 
+| ✅ | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  | [Source](./110-balanced-binary-tree.cpp) | Easy | 
 | ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  | [Source](./111-minimum-depth-of-binary-tree.cpp) | Easy | 
 | ✅ | 112 | [Path Sum](https://leetcode.com/problems/path-sum/)  | [Source](./112-path-sum.cpp) | Easy | 
 |   | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)  |  | Medium | 
