@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-77%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-78%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -102,7 +102,7 @@
 |   | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)  |  | Medium | 
 |   | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  |  | Medium | 
 |   | 097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)  |  | Hard | 
-|   | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  |  | Medium | 
+| ✅ | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  | [Source](./098-validate-binary-search-tree.cpp) | Medium | 
 |   | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)  |  | Hard | 
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Source](./100-same-tree.cpp) | Easy | 
 | ✅ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  | [Source](./101-symmetric-tree.cpp) | Easy | 
