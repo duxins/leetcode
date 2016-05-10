@@ -16,6 +16,7 @@ function(target name)
     target_link_libraries(${name} gtest gtest_main linked_list)
 endfunction(target)
 
+target(000-practice)
 target(001-two-sum)
 target(141-linked-list-cycle)
 target(142-linked-list-cycle-ii)
