@@ -50,6 +50,36 @@ task :sync do
 
 end
 
+task :practice do
+  readme_file = File.expand_path("../README.md", __FILE__)
+  files = File.read(readme_file).scan(/\[Source\]\(([^)]+)\)/)
+
+  # Pick a random problem
+  source_file = files.sample(1).first.first
+
+  print "Problem ID: "
+  id = $stdin.readline.chop.rjust(3, '0')
+
+  source_file = files.find{|m| m.first =~ Regexp.new("#{id}-") }.to_a.first unless id == '000'
+
+  raise('Source file not found') if source_file.nil?
+
+  source = File.read(source_file)
+
+  source.sub!(/class Solution(.*)^};/m) do |m| 
+    # Remove private methods
+    m = m.gsub(/private:(.*)^public:/m, 'public:')
+    # Remove method body
+    m.gsub(/^\s{6,}.*\n/, '')
+  end
+
+  practice_file = File.expand_path("../000-practice.cpp", __FILE__)
+  File.write(practice_file, source)
+
+  %x(which clion && clion ./000-practice.cpp)
+
+end
+
 
 task :start do
   print "Problem ID: "
