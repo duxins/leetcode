@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/111-minimum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/104-maximum-depth-of-binary-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/318-maximum-product-of-word-lengths.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/112-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/024-swap-nodes-in-pairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/053-maximum-subarray.cpp" isTestSource="false" />
