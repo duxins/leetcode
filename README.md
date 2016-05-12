@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-80%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-81%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -66,7 +66,7 @@
 |   | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  |  | Medium | 
 |   | 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  |  | Medium | 
 |   | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/)  |  | Medium | 
-|   | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |  | Medium | 
+| ✅ | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Source](./062-unique-paths.cpp) | Medium | 
 |   | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)  |  | Medium | 
 |   | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  |  | Medium | 
 |   | 065 | [Valid Number](https://leetcode.com/problems/valid-number/)  |  | Hard | 
