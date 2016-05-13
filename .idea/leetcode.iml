@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/345-reverse-vowels-of-a-string.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/119-pascals-triangle-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/064-minimum-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/008-string-to-integer-atoi.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-merge-sorted-array.cpp" isTestSource="false" />

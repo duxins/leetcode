@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-81%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-82%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -68,7 +68,7 @@
 |   | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/)  |  | Medium | 
 | ✅ | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Source](./062-unique-paths.cpp) | Medium | 
 |   | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)  |  | Medium | 
-|   | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  |  | Medium | 
+| ✅ | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)  | [Source](./064-minimum-path-sum.cpp) | Medium | 
 |   | 065 | [Valid Number](https://leetcode.com/problems/valid-number/)  |  | Hard | 
 | ✅ | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  | [Source](./066-plus-one.cpp) | Easy | 
 | ✅ | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  | [Source](./067-add-binary.cpp) | Easy | 
