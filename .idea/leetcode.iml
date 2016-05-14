@@ -50,6 +50,7 @@
       <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/260-single-number-iii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock.cpp" isTestSource="false" />
