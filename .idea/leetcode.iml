@@ -49,6 +49,7 @@
       <sourceFolder url="file://$MODULE_DIR$/035-search-insert-position.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/199-binary-tree-right-side-view.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260-single-number-iii.cpp" isTestSource="false" />

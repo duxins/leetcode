@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-84%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-85%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -266,7 +266,7 @@
 |   | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) 🔒 |  | Easy | 
 |   | 277 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) 🔒 |  | Medium | 
 | ✅ | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)  | [Source](./278-first-bad-version.cpp) | Easy | 
-|   | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  |  | Medium | 
+| ✅ | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | [Source](./279-perfect-squares.cpp) | Medium | 
 |   | 280 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) 🔒 |  | Medium | 
 |   | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) 🔒 |  | Medium | 
 |   | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  |  | Hard | 
