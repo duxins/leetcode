@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-85%2F331-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-86%2F331-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -218,7 +218,7 @@
 |   | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)  |  | Medium | 
 |   | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)  |  | Medium | 
 |   | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)  |  | Medium | 
-|   | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  |  | Medium | 
+| ✅ | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)  | [Source](./230-kth-smallest-element-in-a-bst.cpp) | Medium | 
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Source](./231-power-of-two.cpp) | Easy | 
 |   | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  |  | Easy | 
 |   | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)  |  | Hard | 
