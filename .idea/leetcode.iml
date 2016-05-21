@@ -49,8 +49,9 @@
       <sourceFolder url="file://$MODULE_DIR$/191-number-of-1-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/235-lowest-common-ancestor-of-a-binary-search-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/035-search-insert-position.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/199-binary-tree-right-side-view.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260-single-number-iii.cpp" isTestSource="false" />
@@ -67,7 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest-all.cc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/096-unique-binary-search-trees.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/206-reverse-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/118-pascals-triangle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/171-excel-sheet-column-number.cpp" isTestSource="false" />

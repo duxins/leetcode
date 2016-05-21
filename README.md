@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-88%2F332-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-89%2F333-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -100,7 +100,7 @@
 |   | 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)  |  | Medium | 
 | ✅ | 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Source](./094-binary-tree-inorder-traversal.cpp) | Medium | 
 |   | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)  |  | Medium | 
-|   | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  |  | Medium | 
+| ✅ | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  | [Source](./096-unique-binary-search-trees.cpp) | Medium | 
 |   | 097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)  |  | Hard | 
 | ✅ | 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)  | [Source](./098-validate-binary-search-tree.cpp) | Medium | 
 |   | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)  |  | Hard | 
@@ -337,6 +337,7 @@
 |   | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  | Medium | 
 |   | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔒 |  | Medium | 
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [Source](./349-intersection-of-two-arrays.cpp) | Easy | 
+|   | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
