@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-89%2F333-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-90%2F333-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -337,7 +337,7 @@
 |   | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  | Medium | 
 |   | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔒 |  | Medium | 
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [Source](./349-intersection-of-two-arrays.cpp) | Easy | 
-|   | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  |  | Easy | 
+| ✅ | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [Source](./350-intersection-of-two-arrays-ii.cpp) | Easy | 
 
 [//]: # (PROBLEMS END)
 

@@ -97,6 +97,7 @@
       <sourceFolder url="file://$MODULE_DIR$/344-reverse-string.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/338-counting-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/232-implement-queue-using-stacks.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/350-intersection-of-two-arrays-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/002-add-two-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/141-linked-list-cycle.cpp" isTestSource="false" />
     </content>
