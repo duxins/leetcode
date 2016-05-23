@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/345-reverse-vowels-of-a-string.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/009-palindrome-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/119-pascals-triangle-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/064-minimum-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/169-majority-element.cpp" isTestSource="false" />
@@ -38,6 +39,7 @@
       <sourceFolder url="file://$MODULE_DIR$/258-add-digits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/111-minimum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/223-rectangle-area.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/318-maximum-product-of-word-lengths.cpp" isTestSource="false" />
@@ -49,9 +51,8 @@
       <sourceFolder url="file://$MODULE_DIR$/191-number-of-1-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/235-lowest-common-ancestor-of-a-binary-search-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/035-search-insert-position.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/114-flatten-binary-tree-to-linked-list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/199-binary-tree-right-side-view.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/199-binary-tree-right-side-view.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260-single-number-iii.cpp" isTestSource="false" />
