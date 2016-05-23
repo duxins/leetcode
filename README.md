@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-90%2F333-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-90%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -338,6 +338,7 @@
 |   | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔒 |  | Medium | 
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [Source](./349-intersection-of-two-arrays.cpp) | Easy | 
 | ✅ | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [Source](./350-intersection-of-two-arrays-ii.cpp) | Easy | 
+|   | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
