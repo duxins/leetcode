@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-91%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-92%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -77,7 +77,7 @@
 | ✅ | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Source](./070-climbing-stairs.cpp) | Easy | 
 |   | 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)  |  | Medium | 
 |   | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/)  |  | Hard | 
-|   | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  |  | Medium | 
+| ✅ | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)  | [Source](./073-set-matrix-zeroes.cpp) | Medium | 
 |   | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)  |  | Medium | 
 | ✅ | 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | [Source](./075-sort-colors.cpp) | Medium | 
 |   | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)  |  | Hard | 
