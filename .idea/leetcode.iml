@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/064-minimum-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/169-majority-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/024-swap-nodes-in-pairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349-intersection-of-two-arrays.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/107-binary-tree-level-order-traversal-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
@@ -26,7 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/075-sort-colors.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205-isomorphic-strings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/024-swap-nodes-in-pairs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/299-bulls-and-cows.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />

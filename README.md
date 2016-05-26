@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-92%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-93%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -286,7 +286,7 @@
 |   | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) 🔒 |  | Hard | 
 |   | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  | Hard | 
 |   | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) 🔒 |  | Medium | 
-|   | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  |  | Easy | 
+| ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [Source](./299-bulls-and-cows.cpp) | Easy | 
 |   | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  | Medium | 
 |   | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)  |  | Hard | 
 |   | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) 🔒 |  | Hard | 
