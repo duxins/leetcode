@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-93%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-94%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -176,7 +176,7 @@
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)  | [Source](./169-majority-element.cpp) | Easy | 
 |   | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔒 |  | Easy | 
 | ✅ | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)  | [Source](./171-excel-sheet-column-number.cpp) | Easy | 
-|   | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)  |  | Easy | 
+| ✅ | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)  | [Source](./172-factorial-trailing-zeroes.cpp) | Easy | 
 |   | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)  |  | Medium | 
 |   | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  |  | Hard | 
 |   | 179 | [Largest Number](https://leetcode.com/problems/largest-number/)  |  | Medium | 
