@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-94%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-95%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -222,7 +222,7 @@
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/)  | [Source](./231-power-of-two.cpp) | Easy | 
 | ✅ | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  | [Source](./232-implement-queue-using-stacks.cpp) | Easy | 
 |   | 233 | [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)  |  | Hard | 
-|   | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  |  | Easy | 
+| ✅ | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  | [Source](./234-palindrome-linked-list.cpp) | Easy | 
 | ✅ | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)  | [Source](./235-lowest-common-ancestor-of-a-binary-search-tree.cpp) | Easy | 
 |   | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  |  | Medium | 
 | ✅ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)  | [Source](./237-delete-node-in-a-linked-list.cpp) | Easy | 
