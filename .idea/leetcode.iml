@@ -34,7 +34,7 @@
       <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/050-powx-n.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/125-valid-palindrome.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/342-power-of-four.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/238-product-of-array-except-self.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/098-validate-binary-search-tree.cpp" isTestSource="false" />
@@ -105,6 +105,7 @@
       <sourceFolder url="file://$MODULE_DIR$/350-intersection-of-two-arrays-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/002-add-two-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/141-linked-list-cycle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram.cpp" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
