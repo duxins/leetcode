@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-96%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-97%2F334-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -18,7 +18,7 @@
 |   | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  |  | Medium | 
 |   | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  |  | Medium | 
 |   | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  |  | Easy | 
-|   | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  |  | Easy | 
+| ✅ | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  | [Source](./014-longest-common-prefix.cpp) | Easy | 
 |   | 015 | [3Sum](https://leetcode.com/problems/3sum/)  |  | Medium | 
 |   | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  |  | Medium | 
 |   | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  | Medium | 
