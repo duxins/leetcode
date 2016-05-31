@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-97%2F334-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-98%2F335-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -245,7 +245,7 @@
 |   | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/) 🔒 |  | Medium | 
 |   | 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) 🔒 |  | Medium | 
 |   | 256 | [Paint House](https://leetcode.com/problems/paint-house/) 🔒 |  | Medium | 
-|   | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)  |  | Easy | 
+| ✅ | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)  | [Source](./257-binary-tree-paths.cpp) | Easy | 
 | ✅ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)  | [Source](./258-add-digits.cpp) | Easy | 
 |   | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) 🔒 |  | Medium | 
 | ✅ | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/)  | [Source](./260-single-number-iii.cpp) | Medium | 
@@ -339,6 +339,7 @@
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [Source](./349-intersection-of-two-arrays.cpp) | Easy | 
 | ✅ | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [Source](./350-intersection-of-two-arrays-ii.cpp) | Easy | 
 |   | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) 🔒 |  | Medium | 
+|   | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  |  | Hard | 
 
 [//]: # (PROBLEMS END)
 

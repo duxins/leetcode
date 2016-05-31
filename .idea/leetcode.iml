@@ -26,6 +26,7 @@
       <sourceFolder url="file://$MODULE_DIR$/008-string-to-integer-atoi.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/066-plus-one.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/075-sort-colors.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/086-partition-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205-isomorphic-strings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/299-bulls-and-cows.cpp" isTestSource="false" />
@@ -55,7 +56,7 @@
       <sourceFolder url="file://$MODULE_DIR$/035-search-insert-position.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/234-palindrome-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/199-binary-tree-right-side-view.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/086-partition-list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/257-binary-tree-paths.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/279-perfect-squares.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
