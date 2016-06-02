@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-99%2F335-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-100%2F335-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -186,7 +186,7 @@
 | ✅ | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)  | [Source](./189-rotate-array.cpp) | Easy | 
 | ✅ | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Source](./190-reverse-bits.cpp) | Easy | 
 | ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)  | [Source](./191-number-of-1-bits.cpp) | Easy | 
-|   | 198 | [House Robber](https://leetcode.com/problems/house-robber/)  |  | Easy | 
+| ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [Source](./198-house-robber.cpp) | Easy | 
 | ✅ | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  | [Source](./199-binary-tree-right-side-view.cpp) | Medium | 
 |   | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  | Medium | 
 |   | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  |  | Medium | 
