@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-100%2F335-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-101%2F336-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -84,7 +84,7 @@
 |   | 077 | [Combinations](https://leetcode.com/problems/combinations/)  |  | Medium | 
 |   | 078 | [Subsets](https://leetcode.com/problems/subsets/)  |  | Medium | 
 |   | 079 | [Word Search](https://leetcode.com/problems/word-search/)  |  | Medium | 
-|   | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  |  | Medium | 
+| ✅ | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)  | [Source](./080-remove-duplicates-from-sorted-array-ii.cpp) | Medium | 
 |   | 081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)  |  | Medium | 
 | ✅ | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)  | [Source](./082-remove-duplicates-from-sorted-list-ii.cpp) | Medium | 
 | ✅ | 083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)  | [Source](./083-remove-duplicates-from-sorted-list.cpp) | Easy | 
@@ -340,6 +340,7 @@
 | ✅ | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [Source](./350-intersection-of-two-arrays-ii.cpp) | Easy | 
 |   | 351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) 🔒 |  | Medium | 
 |   | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)  |  | Hard | 
+|   | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
