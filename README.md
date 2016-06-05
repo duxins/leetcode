@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-101%2F336-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-102%2F336-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -279,7 +279,7 @@
 |   | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/)  |  | Medium | 
 |   | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  |  | Easy | 
 |   | 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) 🔒 |  | Hard | 
-|   | 292 | [Nim Game](https://leetcode.com/problems/nim-game/)  |  | Easy | 
+| ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/)  | [Source](./292-nim-game.cpp) | Easy | 
 |   | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) 🔒 |  | Easy | 
 |   | 294 | [Flip Game II](https://leetcode.com/problems/flip-game-ii/) 🔒 |  | Medium | 
 |   | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)  |  | Hard | 
