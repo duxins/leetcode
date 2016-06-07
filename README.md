@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-103%2F337-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-104%2F337-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -334,7 +334,7 @@
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [Source](./344-reverse-string.cpp) | Easy | 
 | ✅ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | [Source](./345-reverse-vowels-of-a-string.cpp) | Easy | 
 |   | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔒 |  | Easy | 
-|   | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  |  | Medium | 
+| ✅ | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)  | [Source](./347-top-k-frequent-elements.cpp) | Medium | 
 |   | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔒 |  | Medium | 
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  | [Source](./349-intersection-of-two-arrays.cpp) | Easy | 
 | ✅ | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  | [Source](./350-intersection-of-two-arrays-ii.cpp) | Easy | 
