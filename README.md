@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-104%2F337-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-105%2F337-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -290,7 +290,7 @@
 |   | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  | Medium | 
 |   | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)  |  | Hard | 
 |   | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) 🔒 |  | Hard | 
-|   | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  |  | Easy | 
+| ✅ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)  | [Source](./303-range-sum-query-immutable.cpp) | Easy | 
 |   | 304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)  |  | Medium | 
 |   | 305 | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) 🔒 |  | Hard | 
 |   | 306 | [Additive Number](https://leetcode.com/problems/additive-number/)  |  | Medium | 
