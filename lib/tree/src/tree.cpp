@@ -4,6 +4,7 @@
 
 #include "tree/tree.h"
 #include <queue>
+#include <algorithm>
 
 //Taken from http://stackoverflow.com/q/23754060/575163
 TreeNode *tree_init(std::vector<std::string> nodes){
@@ -45,3 +46,7 @@ bool tree_equal(TreeNode *p, TreeNode *q) {
     return tree_equal(p->left, q->left) && tree_equal(p->right, q->right);
 }
 
+int tree_height(TreeNode *root) {
+    if(root == NULL) return 0;
+    return 1 + std::max(tree_height(root->left), tree_height(root->right));
+}

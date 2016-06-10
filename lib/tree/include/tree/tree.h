@@ -18,6 +18,7 @@ struct TreeNode {
 
 TreeNode *tree_init(std::vector<std::string> nodes);
 
+int tree_height(TreeNode *root);
 bool tree_equal(TreeNode *p, TreeNode *q);
 
 #endif //LEETCODE_TREE_H
