@@ -50,3 +50,39 @@ int tree_height(TreeNode *root) {
     if(root == NULL) return 0;
     return 1 + std::max(tree_height(root->left), tree_height(root->right));
 }
+
+std::vector<std::string> tree_to_vector(TreeNode *root){
+    std::vector<std::string> result;
+    if(root == NULL) return result;
+    std::queue<TreeNode *>q;
+    q.push(root);
+    while(!q.empty()){
+        int size = q.size();
+        for(int i = 0; i < size; i ++){
+            TreeNode *n = q.front();
+            if(n == NULL){
+                result.push_back("#");
+            }else{
+                q.push(n->left);
+                q.push(n->right);
+                result.push_back(std::to_string(n->val));
+            }
+            q.pop();
+        }
+    }
+
+    //Remove trailing '#'
+    auto it = result.end();
+    while(it > result.begin()){
+        it--;
+        if(*it != "#"){
+            break;
+        }else{
+            it = result.erase(it);
+        }
+    }
+
+    return result;
+}
+
+
