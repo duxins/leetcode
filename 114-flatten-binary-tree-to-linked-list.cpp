@@ -67,25 +67,25 @@ public:
     }
 };
 
+void EXPECT(vector<string> expected, vector<string> input) {
+    Solution solution = Solution();
+    TreeNode *root = tree_init(input);
+    TreeNode *expected_tree = tree_init(expected);
+    solution.flatten(root);
+    EXPECT_EQ(tree_to_vector(expected_tree), tree_to_vector(root));
+}
 
 TEST(leetcode_114_flatten_binary_tree_to_linked_list, Basic)
 {
-    Solution *solution = new Solution();
-
-    TreeNode *root = tree_init({"0", "1"});
-    TreeNode *expected = tree_init({"0", "#", "1"});
-    solution->flatten(root);
-    EXPECT_TRUE(tree_equal(expected, root));
-
-    root = tree_init({"1", "2", "5", "3", "4", "#", "6"});
-    expected = tree_init({"1", "#", "2", "#", "3", "#", "4", "#", "5", "#", "6"});
-    solution->flatten(root);
-    EXPECT_TRUE(tree_equal(expected, root));
-
-    root = tree_init({"0"});
-    expected = tree_init({"0"});
-    solution->flatten(root);
-    EXPECT_TRUE(tree_equal(expected, root));
+    EXPECT({"0", "#", "1"}, {"0", "1"});
+    EXPECT({"1", "#", "2", "#", "3", "#", "4", "#", "5", "#", "6"}, {"1", "2", "5", "3", "4", "#", "6"});
+    EXPECT({"0"}, {"0"});
+    EXPECT({"1","#","2"}, {"1", "2"});
+    EXPECT({"1","#","2","#","3"}, {"1","2","#","#","3"});
+    EXPECT({"1","#","2","#","3","#","5","#","4"}, {"1","2","#","3","4","5"});
+    EXPECT({"1","#","2","#","3","#","5","#","4"}, {"1","2","#","3","4","5"});
+    EXPECT({"1","#","2","#","3"}, {"1", "#", "2", "3"});
+    EXPECT({"1","#","2","#","4","#","3"}, {"1", "#", "2", "#", "4", "3"});
 }
 
 int main(int argc, char *argv[]) {
