@@ -60,15 +60,15 @@ public:
 TEST(leetcode_234_palindrome_linked_list, Basic)
 {
     Solution *solution = new Solution();
-    ListNode *head = list_init("1, 2, 1");
+    ListNode *head = list_init({1, 2, 1});
     EXPECT_TRUE(solution->isPalindrome(head));
-    head = list_init("16557, 8725, 29125, 28873, 21702, 15483, 28441, 17845, 4317, 10914, 10914, 4317, 17845, 28441, 15483, 21702, 28873, 29125, 8725, 16557");
+    head = list_init({16557, 8725, 29125, 28873, 21702, 15483, 28441, 17845, 4317, 10914, 10914, 4317, 17845, 28441, 15483, 21702, 28873, 29125, 8725, 16557});
     EXPECT_TRUE(solution->isPalindrome(head));
-    head = list_init("1, 4, 1, 1, 4, 1");
+    head = list_init({1, 4, 1, 1, 4, 1});
     EXPECT_TRUE(solution->isPalindrome(head));
-    head = list_init("1, 0, 3, 4, 0, 1");
+    head = list_init({1, 0, 3, 4, 0, 1});
     EXPECT_FALSE(solution->isPalindrome(head));
-    head = list_init("31900, 22571, 31634, 19735, 13748, 16612, 28299, 16628, 9614, 14444, 14444, 9614, 16628, 31900, 16612, 13748, 19735, 31634, 22571, 28299");
+    head = list_init({31900, 22571, 31634, 19735, 13748, 16612, 28299, 16628, 9614, 14444, 14444, 9614, 16628, 31900, 16612, 13748, 19735, 31634, 22571, 28299});
     EXPECT_FALSE(solution->isPalindrome(head));
 }
 

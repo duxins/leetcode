@@ -27,11 +27,11 @@ public:
 
 TEST(leetcode_237_delete_node_in_a_linked_list, Basic)
 {
-    ListNode *head = list_init("1, 2, 3, 4, 5");
+    ListNode *head = list_init({1, 2, 3, 4, 5});
     Solution *solution = new Solution();
     solution->deleteNode(head->next->next);
 
-    ListNode *result = list_init("1, 2, 4, 5");
+    ListNode *result = list_init({1, 2, 4, 5});
 
     EXPECT_TRUE(list_equal(result, head));
 }

@@ -40,7 +40,7 @@ public:
 TEST(leetcode_142_linked_list_cycle_ii, Basic)
 {
     Solution *solution = new Solution();
-    ListNode *head = list_init("1, 2, 3, 4");
+    ListNode *head = list_init({1, 2, 3, 4});
     list_add_tail(head, head);
     EXPECT_EQ(head, solution->detectCycle(head));
 }
@@ -53,8 +53,8 @@ TEST(leetcode_142_linked_list_cycle_ii, Basic1)
     //                     |______________|
 
     Solution *solution = new Solution();
-    ListNode *list1 = list_init("1, 2, 3, 4");
-    ListNode *list2 = list_init("1, 2, 3, 4");
+    ListNode *list1 = list_init({1, 2, 3, 4});
+    ListNode *list2 = list_init({1, 2, 3, 4});
     list_add_tail(list2, list2);
     list_add_tail(list1, list2);
     EXPECT_EQ(list2, solution->detectCycle(list1));

@@ -4,6 +4,7 @@
 
 #include <cstdio>
 #include <string>
+#include <vector>
 #include "list/list.h"
 
 void list_add_tail(ListNode *head, ListNode *node){
@@ -16,36 +17,15 @@ void list_add_tail(ListNode *head, ListNode *node){
     n->next = node;
 }
 
-ListNode *list_init(int *nums, size_t size){
-    if(size == 0) return NULL;
-    ListNode *head = new ListNode(nums[0]);
-    ListNode *prev = head;
-    for (int i = 1; i < size; ++i) {
-        ListNode *p = new ListNode(nums[i]);
-        prev->next = p;
-        prev = p;
-    }
-    return head;
-}
-
-ListNode *list_init(std::string str){
+ListNode *list_init(std::vector<int> v){
     ListNode *dummy = new ListNode(-1);
     ListNode *prev = dummy;
-    int n = 0;
-    for(auto c: str){
-        if(!isdigit(c) && c != ',') continue;
-        if(c == ','){
-            ListNode *node = new ListNode(n);
-            prev->next = node;
-            prev = node;
-            n = 0;
-        }else{
-            n = n * 10 + (c - '0');
-        }
+    for(int n : v){
+        ListNode *node = new ListNode(n);
+        prev->next = node;
+        prev = node;
     }
-    if(n > 0){
-        prev->next = new ListNode(n);
-    }
+
     ListNode *head = dummy->next;
     delete dummy;
     return head;

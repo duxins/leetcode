@@ -48,14 +48,14 @@ public:
 TEST(leetcode_019_remove_nth_node_from_end_of_list, Basic)
 {
     Solution *solution = new Solution();
-    ListNode *result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 2);
-    EXPECT_TRUE(list_equal(list_init("1, 2, 3, 5"), result));
+    ListNode *result = solution->removeNthFromEnd(list_init({1, 2, 3, 4, 5}), 2);
+    EXPECT_TRUE(list_equal(list_init({1, 2, 3, 5}), result));
 
-    result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 1);
-    EXPECT_TRUE(list_equal(list_init("1, 2, 3, 4"), result));
+    result = solution->removeNthFromEnd(list_init({1, 2, 3, 4, 5}), 1);
+    EXPECT_TRUE(list_equal(list_init({1, 2, 3, 4}), result));
 
-    result = solution->removeNthFromEnd(list_init("1, 2, 3, 4, 5"), 5);
-    EXPECT_TRUE(list_equal(list_init("2, 3, 4, 5"), result));
+    result = solution->removeNthFromEnd(list_init({1, 2, 3, 4, 5}), 5);
+    EXPECT_TRUE(list_equal(list_init({2, 3, 4, 5}), result));
 }
 
 int main(int argc, char *argv[]) {

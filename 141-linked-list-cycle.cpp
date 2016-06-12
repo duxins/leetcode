@@ -35,18 +35,23 @@ public:
     }
 };
 
-TEST(leetcode_141_linked_list_cycle, NoCycle)
+TEST(leetcode_141_linked_list_cycle, Basic)
 {
     Solution *solution = new Solution();
-    ListNode *head = list_init("0, 1, 2, 3, 4, 5");
+    ListNode *head = list_init({0, 1, 2, 3, 4, 5});
     EXPECT_FALSE(solution->hasCycle(head));
-}
 
-TEST(leetcode_141_linked_list_cycle, HasCycle)
-{
-    Solution *solution = new Solution();
-    ListNode *head = list_init("0, 1, 2, 3, 4, 5");
-    list_add_tail(head, head);
+    head = list_init({0});
+    EXPECT_FALSE(solution->hasCycle(head));
+
+    head = list_init({0, 1, 2});
+    EXPECT_FALSE(solution->hasCycle(head));
+
+    head = list_init({});
+    EXPECT_FALSE(solution->hasCycle(head));
+
+    head = list_init({0});
+    head->next = head;
     EXPECT_TRUE(solution->hasCycle(head));
 }
 

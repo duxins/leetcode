@@ -3,6 +3,7 @@
 //
 
 #include <cstddef>
+#include <vector>
 
 #ifndef LEETCODE_LIST_H
 #define LEETCODE_LIST_H
@@ -19,9 +20,8 @@ struct LinkedList {
     LinkedList(ListNode *head): head(head), tail(head) {}
 };
 
-ListNode *list_init(int *nums, size_t size);
 
-ListNode *list_init(std::string str);
+ListNode *list_init(std::vector<int> v);
 
 void list_add_tail(ListNode *head, ListNode *node);
 

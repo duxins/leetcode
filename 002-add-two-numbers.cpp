@@ -49,12 +49,9 @@ public:
 TEST(leetcode_002_add_two_numbers, Basic)
 {
     Solution *solution = new Solution();
-    int nums1[] = {2, 4, 3, 9};
-    int nums2[] = {5, 6, 6};
-    ListNode *l1 = list_init(nums1, 4);
-    ListNode *l2 = list_init(nums2, 3);
-    int nums3[] = {7, 0, 0, 0, 1};
-    ListNode *expected = list_init(nums3, 5);
+    ListNode *l1 = list_init({2, 4, 3, 9});
+    ListNode *l2 = list_init({5, 6, 6});
+    ListNode *expected = list_init({7, 0, 0, 0, 1});
     EXPECT_TRUE(list_equal(expected, solution->addTwoNumbers(l1, l2)));
 }
 

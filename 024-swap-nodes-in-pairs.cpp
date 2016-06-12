@@ -31,8 +31,8 @@ public:
 TEST(leetcode_024_swap_nodes_in_pairs, Basic)
 {
     Solution *solution = new Solution();
-    ListNode *head = list_init("1, 2, 3, 4");
-    ListNode *expected = list_init("2, 1, 4, 3");
+    ListNode *head = list_init({1, 2, 3, 4});
+    ListNode *expected = list_init({2, 1, 4, 3});
     EXPECT_TRUE(list_equal(expected, solution->swapPairs(head)));
 }
 

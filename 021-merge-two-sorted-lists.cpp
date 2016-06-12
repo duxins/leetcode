@@ -64,12 +64,12 @@ TEST(leetcode_021_merge_two_sorted_lists, Basic)
 {
     Solution *solution = new Solution();
 
-    ListNode *head1 = list_init("1, 3, 5, 7");
-    ListNode *head2 = list_init("2, 4, 6, 8");
+    ListNode *head1 = list_init({1, 3, 5, 7});
+    ListNode *head2 = list_init({2, 4, 6, 8});
 
     ListNode *merged = solution->mergeTwoLists(head1, head2);
 
-    ListNode *expected = list_init("1, 2, 3, 4, 5, 6, 7, 8");
+    ListNode *expected = list_init({1, 2, 3, 4, 5, 6, 7, 8});
 
     EXPECT_TRUE(list_equal(expected, merged));
 
@@ -79,12 +79,12 @@ TEST(leetcode_021_merge_two_sorted_lists, RecursiveSolution)
 {
     Solution *solution = new Solution();
 
-    ListNode *head1 = list_init("1, 3, 5, 7");
-    ListNode *head2 = list_init("2, 4, 6, 8");
+    ListNode *head1 = list_init({1, 3, 5, 7});
+    ListNode *head2 = list_init({2, 4, 6, 8});
 
     ListNode *merged = solution->mergeTwoListsRecursively(head1, head2);
 
-    ListNode *expected = list_init("1, 2, 3, 4, 5, 6, 7, 8");
+    ListNode *expected = list_init({1, 2, 3, 4, 5, 6, 7, 8});
 
     EXPECT_TRUE(list_equal(expected, merged));
 
