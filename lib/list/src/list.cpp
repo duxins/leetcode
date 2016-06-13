@@ -31,6 +31,15 @@ ListNode *list_init(std::vector<int> v){
     return head;
 }
 
+std::vector<int> list_to_vector(ListNode *head){
+    std::vector<int> result;
+    while(head){
+        result.push_back(head->val);
+        head = head->next;
+    }
+    return result;
+}
+
 bool list_equal(ListNode *head1, ListNode *head2){
     ListNode *p = head1;
     ListNode *q = head2;

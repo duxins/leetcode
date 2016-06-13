@@ -29,4 +29,6 @@ bool list_equal(ListNode *head1, ListNode *head2);
 
 void list_print(ListNode *head);
 
+std::vector<int> list_to_vector(ListNode *head);
+
 #endif //LEETCODE_LIST_H

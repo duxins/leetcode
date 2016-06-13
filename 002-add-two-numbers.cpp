@@ -46,13 +46,20 @@ public:
     }
 };
 
+void judge(vector<int> input1, vector<int> input2, vector<int> expected){
+    Solution solution = Solution();
+    ListNode *l1 = list_init(input1);
+    ListNode *l2 = list_init(input2);
+    EXPECT_EQ(expected, list_to_vector(solution.addTwoNumbers(l1, l2)));
+}
+
 TEST(leetcode_002_add_two_numbers, Basic)
 {
-    Solution *solution = new Solution();
-    ListNode *l1 = list_init({2, 4, 3, 9});
-    ListNode *l2 = list_init({5, 6, 6});
-    ListNode *expected = list_init({7, 0, 0, 0, 1});
-    EXPECT_TRUE(list_equal(expected, solution->addTwoNumbers(l1, l2)));
+    judge({0}, {0}, {0});
+    judge({2, 4, 3, 9}, {5, 6, 6}, {7, 0, 0, 0, 1});
+    judge({2, 4, 3},{5, 6, 4}, {7, 0, 8});
+    judge({9, 1, 6},{0}, {9, 1, 6});
+    judge({9}, {1,9,9,9,9,9,9,9,9,9}, {0,0,0,0,0,0,0,0,0,0,1});
 }
 
 int main(int argc, char *argv[]) {

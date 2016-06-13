@@ -60,34 +60,21 @@ public:
     }
 };
 
-TEST(leetcode_021_merge_two_sorted_lists, Basic)
-{
-    Solution *solution = new Solution();
+void judge(vector<int> input1, vector<int> input2, vector<int> expected){
+    Solution solution = Solution();
+    ListNode *l1 = list_init(input1);
+    ListNode *l2 = list_init(input2);
+    EXPECT_EQ(expected, list_to_vector(solution.mergeTwoLists(l1, l2)));
 
-    ListNode *head1 = list_init({1, 3, 5, 7});
-    ListNode *head2 = list_init({2, 4, 6, 8});
-
-    ListNode *merged = solution->mergeTwoLists(head1, head2);
-
-    ListNode *expected = list_init({1, 2, 3, 4, 5, 6, 7, 8});
-
-    EXPECT_TRUE(list_equal(expected, merged));
-
+    l1 = list_init(input1);
+    l2 = list_init(input2);
+    EXPECT_EQ(expected, list_to_vector(solution.mergeTwoListsRecursively(l1, l2)));
 }
 
-TEST(leetcode_021_merge_two_sorted_lists, RecursiveSolution)
+
+TEST(leetcode_021_merge_two_sorted_lists, Basic)
 {
-    Solution *solution = new Solution();
-
-    ListNode *head1 = list_init({1, 3, 5, 7});
-    ListNode *head2 = list_init({2, 4, 6, 8});
-
-    ListNode *merged = solution->mergeTwoListsRecursively(head1, head2);
-
-    ListNode *expected = list_init({1, 2, 3, 4, 5, 6, 7, 8});
-
-    EXPECT_TRUE(list_equal(expected, merged));
-
+    judge({1, 3, 5, 7}, {2, 4, 6, 8}, {1, 2, 3, 4, 5, 6, 7, 8});
 }
 
 int main(int argc, char *argv[]) {

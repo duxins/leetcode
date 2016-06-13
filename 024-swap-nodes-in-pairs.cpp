@@ -28,12 +28,18 @@ public:
     }
 };
 
+void judge(vector<int> input, vector<int> expected){
+    Solution solution = Solution();
+    ListNode *head = list_init(input);
+    EXPECT_EQ(expected, list_to_vector(solution.swapPairs(head)));
+}
+
 TEST(leetcode_024_swap_nodes_in_pairs, Basic)
 {
-    Solution *solution = new Solution();
-    ListNode *head = list_init({1, 2, 3, 4});
-    ListNode *expected = list_init({2, 1, 4, 3});
-    EXPECT_TRUE(list_equal(expected, solution->swapPairs(head)));
+    judge({1, 2, 3, 4}, {2, 1, 4, 3});
+    judge({1, 2, 3, 4, 5, 6}, {2, 1, 4, 3, 6, 5 });
+    judge({1, 2}, {2, 1});
+    judge({1}, {1});
 }
 
 int main(int argc, char *argv[]) {
