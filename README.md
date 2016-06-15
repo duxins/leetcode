@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-107%2F341-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-108%2F341-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -52,7 +52,7 @@
 |   | 045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)  |  | Hard | 
 |   | 046 | [Permutations](https://leetcode.com/problems/permutations/)  |  | Medium | 
 |   | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/)  |  | Medium | 
-|   | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)  |  | Medium | 
+| ✅ | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Source](./048-rotate-image.cpp) | Medium | 
 |   | 049 | [Group Anagrams](https://leetcode.com/problems/anagrams/)  |  | Medium | 
 | ✅ | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)  | [Source](./050-powx-n.cpp) | Medium | 
 |   | 051 | [N-Queens](https://leetcode.com/problems/n-queens/)  |  | Hard | 
@@ -317,7 +317,7 @@
 |   | 327 | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)  |  | Hard | 
 | ✅ | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)  | [Source](./328-odd-even-linked-list.cpp) | Medium | 
 |   | 329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)  |  | Hard | 
-|   | 330 | [Patching Array](https://leetcode.com/problems/patching-array/)  |  | Medium | 
+|   | 330 | [Patching Array](https://leetcode.com/problems/patching-array/)  |  | Hard | 
 |   | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)  |  | Medium | 
 |   | 332 | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  |  | Medium | 
 |   | 333 | [Largest BST Subtree](https://leetcode.com/problems/largest-bst-subtree/) 🔒 |  | Medium | 
