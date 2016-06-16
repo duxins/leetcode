@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-108%2F341-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-109%2F342-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -10,7 +10,7 @@
 |   | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  | Medium | 
 |   | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  | Hard | 
 |   | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  |  | Medium | 
-|   | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  |  | Easy | 
+| ✅ | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Source](./006-zigzag-conversion.cpp) | Easy | 
 | ✅ | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [Source](./007-reverse-integer.cpp) | Easy | 
 | ✅ | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [Source](./008-string-to-integer-atoi.cpp) | Easy | 
 | ✅ | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [Source](./009-palindrome-number.cpp) | Easy | 
@@ -346,6 +346,7 @@
 |   | 356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) 🔒 |  | Medium | 
 |   | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)  |  | Medium | 
 |   | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) 🔒 |  | Hard | 
+|   | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔒 |  | Easy | 
 
 [//]: # (PROBLEMS END)
 

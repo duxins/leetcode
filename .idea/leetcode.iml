@@ -10,7 +10,6 @@
       <sourceFolder url="file://$MODULE_DIR$/198-house-robber.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/111-minimum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349-intersection-of-two-arrays.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/107-binary-tree-level-order-traversal-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
@@ -61,7 +60,7 @@
       <sourceFolder url="file://$MODULE_DIR$/104-maximum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/318-maximum-product-of-word-lengths.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/112-path-sum.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/009-palindrome-number.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/006-zigzag-conversion.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/024-swap-nodes-in-pairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/073-set-matrix-zeroes.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/021-merge-two-sorted-lists.cpp" isTestSource="false" />
@@ -82,7 +81,7 @@
       <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/190-reverse-bits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/020-valid-parentheses.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/234-palindrome-linked-list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/144-binary-tree-preorder-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/082-remove-duplicates-from-sorted-list-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/096-unique-binary-search-trees.cpp" isTestSource="false" />
@@ -90,6 +89,7 @@
       <sourceFolder url="file://$MODULE_DIR$/118-pascals-triangle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/171-excel-sheet-column-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/234-palindrome-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268-missing-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/008-string-to-integer-atoi.cpp" isTestSource="false" />
@@ -103,6 +103,7 @@
       <sourceFolder url="file://$MODULE_DIR$/202-happy-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/100-same-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/217-contains-duplicate.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/009-palindrome-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/092-reverse-linked-list-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/000-practice.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/203-remove-linked-list-elements.cpp" isTestSource="false" />
@@ -110,7 +111,7 @@
       <sourceFolder url="file://$MODULE_DIR$/129-sum-root-to-leaf-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/098-validate-binary-search-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/263-ugly-number.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/144-binary-tree-preorder-traversal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/231-power-of-two.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/067-add-binary.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/344-reverse-string.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/292-nim-game.cpp" isTestSource="false" />
