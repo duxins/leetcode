@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-109%2F342-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-110%2F343-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -63,7 +63,7 @@
 |   | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  | Hard | 
 |   | 057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)  |  | Hard | 
 | ✅ | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [Source](./058-length-of-last-word.cpp) | Easy | 
-|   | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  |  | Medium | 
+| ✅ | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  | [Source](./059-spiral-matrix-ii.cpp) | Medium | 
 |   | 060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  |  | Medium | 
 |   | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/)  |  | Medium | 
 | ✅ | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Source](./062-unique-paths.cpp) | Medium | 
@@ -347,6 +347,7 @@
 |   | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)  |  | Medium | 
 |   | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) 🔒 |  | Hard | 
 |   | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔒 |  | Easy | 
+|   | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
