@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-111%2F344-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-112%2F344-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -189,7 +189,7 @@
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/)  | [Source](./198-house-robber.cpp) | Easy | 
 | ✅ | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)  | [Source](./199-binary-tree-right-side-view.cpp) | Medium | 
 |   | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  | Medium | 
-|   | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  |  | Medium | 
+| ✅ | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  | [Source](./201-bitwise-and-of-numbers-range.cpp) | Medium | 
 | ✅ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Source](./202-happy-number.cpp) | Easy | 
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [Source](./203-remove-linked-list-elements.cpp) | Easy | 
 |   | 204 | [Count Primes](https://leetcode.com/problems/count-primes/)  |  | Easy | 
