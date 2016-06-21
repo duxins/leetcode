@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-112%2F344-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-113%2F345-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -344,11 +344,12 @@
 |   | 354 | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)  |  | Hard | 
 |   | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter/)  |  | Medium | 
 |   | 356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) 🔒 |  | Medium | 
-|   | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)  |  | Medium | 
+| ✅ | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)  | [Source](./357-count-numbers-with-unique-digits.cpp) | Medium | 
 |   | 358 | [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) 🔒 |  | Hard | 
 |   | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔒 |  | Easy | 
 |   | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) 🔒 |  | Medium | 
 |   | 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) 🔒 |  | Medium | 
+|   | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
