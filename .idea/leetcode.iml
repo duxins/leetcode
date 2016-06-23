@@ -10,9 +10,10 @@
       <sourceFolder url="file://$MODULE_DIR$/064-minimum-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/198-house-robber.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349-intersection-of-two-arrays.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/107-binary-tree-level-order-traversal-ii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/067-add-binary.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/036-valid-sudoku.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/086-partition-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/189-rotate-array.cpp" isTestSource="false" />
@@ -20,16 +21,11 @@
       <sourceFolder url="file://$MODULE_DIR$/073-set-matrix-zeroes.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/062-unique-paths.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/tree/src/tree.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/list/src/list.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest_main.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest-all.cc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/094-binary-tree-inorder-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/019-remove-nth-node-from-end-of-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/153-find-minimum-in-rotated-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-merge-sorted-array.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/119-pascals-triangle-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/066-plus-one.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/075-sort-colors.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/048-rotate-image.cpp" isTestSource="false" />
@@ -45,11 +41,11 @@
       <sourceFolder url="file://$MODULE_DIR$/007-reverse-integer.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/342-power-of-four.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/238-product-of-array-except-self.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/011-container-with-most-water.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/172-factorial-trailing-zeroes.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/094-binary-tree-inorder-traversal.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/067-add-binary.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/102-binary-tree-level-order-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/225-implement-stack-using-queues.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/258-add-digits.cpp" isTestSource="false" />
@@ -68,7 +64,6 @@
       <sourceFolder url="file://$MODULE_DIR$/223-rectangle-area.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/053-maximum-subarray.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/191-number-of-1-bits.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/202-happy-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/230-kth-smallest-element-in-a-bst.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/035-search-insert-position.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/021-merge-two-sorted-lists.cpp" isTestSource="false" />
@@ -78,7 +73,7 @@
       <sourceFolder url="file://$MODULE_DIR$/026-remove-duplicates-from-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/278-first-bad-version.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/260-single-number-iii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/119-pascals-triangle-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142-linked-list-cycle-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/173-binary-search-tree-iterator.cpp" isTestSource="false" />
@@ -86,13 +81,19 @@
       <sourceFolder url="file://$MODULE_DIR$/020-valid-parentheses.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/144-binary-tree-preorder-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/082-remove-duplicates-from-sorted-list-ii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/tree/src/tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/list/src/list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest_main.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/src/gtest-all.cc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/gtest-1.7.0/cmake/internal_utils.cmake" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/096-unique-binary-search-trees.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/206-reverse-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/118-pascals-triangle.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/171-excel-sheet-column-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/226-invert-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/234-palindrome-linked-list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/001-two-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/268-missing-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/008-string-to-integer-atoi.cpp" isTestSource="false" />
@@ -100,17 +101,17 @@
       <sourceFolder url="file://$MODULE_DIR$/108-convert-sorted-array-to-binary-search-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/165-compare-version-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/201-bitwise-and-of-numbers-range.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/059-spiral-matrix-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/219-contains-duplicate-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/202-happy-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/100-same-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/347-top-k-frequent-elements.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/092-reverse-linked-list-ii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/201-bitwise-and-of-numbers-range.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/203-remove-linked-list-elements.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/343-integer-break.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/357-count-numbers-with-unique-digits.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/098-validate-binary-search-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/263-ugly-number.cpp" isTestSource="false" />

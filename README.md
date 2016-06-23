@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-113%2F345-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-114%2F347-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -330,7 +330,7 @@
 |   | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔒 |  | Hard | 
 |   | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)  |  | Medium | 
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/)  | [Source](./342-power-of-four.cpp) | Easy | 
-|   | 343 | [Integer Break](https://leetcode.com/problems/integer-break/)  |  | Medium | 
+| ✅ | 343 | [Integer Break](https://leetcode.com/problems/integer-break/)  | [Source](./343-integer-break.cpp) | Medium | 
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)  | [Source](./344-reverse-string.cpp) | Easy | 
 | ✅ | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)  | [Source](./345-reverse-vowels-of-a-string.cpp) | Easy | 
 |   | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔒 |  | Easy | 
@@ -350,6 +350,8 @@
 |   | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) 🔒 |  | Medium | 
 |   | 361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) 🔒 |  | Medium | 
 |   | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) 🔒 |  | Medium | 
+|   | 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)  |  | Hard | 
+|   | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
