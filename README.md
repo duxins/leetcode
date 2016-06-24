@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-114%2F348-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-115%2F348-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -192,7 +192,7 @@
 | ✅ | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  | [Source](./201-bitwise-and-of-numbers-range.cpp) | Medium | 
 | ✅ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Source](./202-happy-number.cpp) | Easy | 
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)  | [Source](./203-remove-linked-list-elements.cpp) | Easy | 
-|   | 204 | [Count Primes](https://leetcode.com/problems/count-primes/)  |  | Easy | 
+| ✅ | 204 | [Count Primes](https://leetcode.com/problems/count-primes/)  | [Source](./204-count-primes.cpp) | Easy | 
 | ✅ | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)  | [Source](./205-isomorphic-strings.cpp) | Easy | 
 | ✅ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  | [Source](./206-reverse-linked-list.cpp) | Easy | 
 |   | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/)  |  | Medium | 
