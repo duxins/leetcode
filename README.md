@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-114%2F347-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-114%2F348-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -352,6 +352,7 @@
 |   | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) 🔒 |  | Medium | 
 |   | 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-sub-matrix-no-larger-than-k/)  |  | Hard | 
 |   | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) 🔒 |  | Medium | 
+|   | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
