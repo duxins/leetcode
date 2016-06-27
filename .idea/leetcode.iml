@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/094-binary-tree-inorder-traversal.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/019-remove-nth-node-from-end-of-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/007-reverse-integer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/367-valid-perfect-square.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/153-find-minimum-in-rotated-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-merge-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />

@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-115%2F351-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-116%2F351-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -354,7 +354,7 @@
 |   | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) 🔒 |  | Medium | 
 |   | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)  |  | Medium | 
 |   | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) 🔒 |  | Medium | 
-|   | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  |  | Medium | 
+| ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [Source](./367-valid-perfect-square.cpp) | Medium | 
 |   | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
