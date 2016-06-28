@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-116%2F351-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-117%2F352-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -277,7 +277,7 @@
 |   | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |  | Hard | 
 |   | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) 🔒 |  | Easy | 
 |   | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/)  |  | Medium | 
-|   | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  |  | Easy | 
+| ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [Source](./290-word-pattern.cpp) | Easy | 
 |   | 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) 🔒 |  | Hard | 
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/)  | [Source](./292-nim-game.cpp) | Easy | 
 |   | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) 🔒 |  | Easy | 
@@ -356,6 +356,7 @@
 |   | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) 🔒 |  | Medium | 
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [Source](./367-valid-perfect-square.cpp) | Medium | 
 |   | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  |  | Medium | 
+|   | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
