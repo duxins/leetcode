@@ -31,4 +31,6 @@ void list_print(ListNode *head);
 
 std::vector<int> list_to_vector(ListNode *head);
 
+std::ostream& operator <<( std::ostream& os, const ListNode * head);
+
 #endif //LEETCODE_LIST_H

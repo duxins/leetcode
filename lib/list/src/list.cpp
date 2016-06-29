@@ -4,6 +4,7 @@
 
 #include <cstdio>
 #include <string>
+#include <ostream>
 #include <vector>
 #include "list/list.h"
 
@@ -66,4 +67,18 @@ void list_print(ListNode *head){
         p = p->next;
     }
     printf("\n");
+}
+
+
+std::ostream& operator <<( std::ostream& os, const ListNode * head) {
+    const ListNode *p = head;
+    while(p){
+        if(p == head){
+            os << p->val;
+        }else{
+            os << ", " << p->val;
+        }
+        p = p->next;
+    }
+    return os;
 }
