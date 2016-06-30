@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-117%2F352-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-117%2F354-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -357,6 +357,8 @@
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [Source](./367-valid-perfect-square.cpp) | Medium | 
 |   | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  |  | Medium | 
 |   | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) 🔒 |  | Medium | 
+|   | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) 🔒 |  | Medium | 
+|   | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
