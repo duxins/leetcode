@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/064-minimum-path-sum.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/198-house-robber.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/111-minimum-depth-of-binary-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/349-intersection-of-two-arrays.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/107-binary-tree-level-order-traversal-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
@@ -25,9 +26,9 @@
       <sourceFolder url="file://$MODULE_DIR$/367-valid-perfect-square.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/153-find-minimum-in-rotated-sorted-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/088-merge-sorted-array.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/155-min-stack.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/066-plus-one.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/075-sort-colors.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/066-plus-one.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/371-sum-of-two-integers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/048-rotate-image.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/129-sum-root-to-leaf-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/125-valid-palindrome.cpp" isTestSource="false" />
