@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-119%2F354-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-119%2F356-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -359,6 +359,8 @@
 |   | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) 🔒 |  | Medium | 
 |   | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) 🔒 |  | Medium | 
 | ✅ | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)  | [Source](./371-sum-of-two-integers.cpp) | Easy | 
+|   | 372 | [Super Pow](https://leetcode.com/problems/super-pow/)  |  | Medium | 
+|   | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
