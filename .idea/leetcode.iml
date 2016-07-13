@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/107-binary-tree-level-order-traversal-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/083-remove-duplicates-from-sorted-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/036-valid-sudoku.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/374-guess-number-higher-or-lower.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/086-partition-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/189-rotate-array.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/110-balanced-binary-tree.cpp" isTestSource="false" />
