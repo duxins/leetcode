@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-120%2F357-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-120%2F358-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -362,6 +362,7 @@
 |   | 372 | [Super Pow](https://leetcode.com/problems/super-pow/)  |  | Medium | 
 |   | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)  |  | Medium | 
 | ✅ | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)  | [Source](./374-guess-number-higher-or-lower.cpp) | Easy | 
+|   | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
