@@ -1,9 +1,9 @@
-![Progress](https://img.shields.io/badge/Progress-120%2F360-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-120%2F368-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
 
-|   |  #  | Title | Souce |  Difficulty |
+|   |  #  | Title | Source |  Difficulty |
 |---|-----|-------|-------|-------------|
 | ✅ | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Source](./001-two-sum.cpp) | Easy | 
 | ✅ | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Source](./002-add-two-numbers.cpp) | Medium | 
@@ -365,6 +365,14 @@
 |   | 375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)  |  | Medium | 
 |   | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)  |  | Medium | 
 |   | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)  |  | Medium | 
+|   | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  |  | Medium | 
+|   | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) 🔒 |  | Medium | 
+|   | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  |  | Hard | 
+|   | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)  |  | Hard | 
+|   | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)  |  | Medium | 
+|   | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)  |  | Easy | 
+|   | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)  |  | Medium | 
+|   | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
