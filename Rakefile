@@ -40,7 +40,7 @@ task :sync do
   finished = problems.count {|p| p.match(/✅/) }
   badge = "![Progress](https://img.shields.io/badge/Progress-#{finished}%2F#{total}-blue.svg)"
 
-  table = "|   |  #  | Title | Souce |  Difficulty |\n" << 
+  table = "|   |  #  | Title | Source |  Difficulty |\n" << 
           "|---|-----|-------|-------|-------------|\n" << problems.reverse.join("\n")
 
   readme = File.read(readme_file).gsub(/\[\/\/\]: # \(PROBLEMS BEGIN\)(.*)\[\/\/\]: # \(PROBLEMS END\)/m, "[//]: # (PROBLEMS BEGIN)\n\n#{table}\n\n[//]: # (PROBLEMS END)")
