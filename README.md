@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-120%2F368-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-120%2F373-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -140,7 +140,7 @@
 |   | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/)  |  | Medium | 
 |   | 134 | [Gas Station](https://leetcode.com/problems/gas-station/)  |  | Medium | 
 |   | 135 | [Candy](https://leetcode.com/problems/candy/)  |  | Hard | 
-| ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/)  | [Source](./136-single-number.cpp) | Medium | 
+| ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/)  | [Source](./136-single-number.cpp) | Easy | 
 | ✅ | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | [Source](./137-single-number-ii.cpp) | Medium | 
 |   | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  | Hard | 
 |   | 139 | [Word Break](https://leetcode.com/problems/word-break/)  |  | Medium | 
@@ -171,7 +171,7 @@
 |   | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)  |  | Hard | 
 | ✅ | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [Source](./165-compare-version-numbers.cpp) | Easy | 
 |   | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)  |  | Medium | 
-|   | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🔒 |  | Medium | 
+|   | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  |  | Medium | 
 | ✅ | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [Source](./168-excel-sheet-column-title.cpp) | Easy | 
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)  | [Source](./169-majority-element.cpp) | Easy | 
 |   | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔒 |  | Easy | 
@@ -373,6 +373,11 @@
 |   | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)  |  | Easy | 
 |   | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)  |  | Medium | 
 |   | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser/)  |  | Medium | 
+|   | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)  |  | Medium | 
+|   | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  |  | Easy | 
+|   | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)  |  | Medium | 
+|   | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)  |  | Easy | 
+|   | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)  |  | Hard | 
 
 [//]: # (PROBLEMS END)
 
