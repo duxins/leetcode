@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-120%2F373-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F373-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -376,7 +376,7 @@
 |   | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)  |  | Medium | 
 |   | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  |  | Easy | 
 |   | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)  |  | Medium | 
-|   | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)  |  | Easy | 
+| ✅ | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)  | [Source](./389-find-the-difference.cpp) | Easy | 
 |   | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)  |  | Hard | 
 
 [//]: # (PROBLEMS END)

@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/345-reverse-vowels-of-a-string.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/217-contains-duplicate.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/009-palindrome-number.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/058-length-of-last-word.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/136-single-number.cpp" isTestSource="false" />
@@ -34,12 +33,13 @@
       <sourceFolder url="file://$MODULE_DIR$/048-rotate-image.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/129-sum-root-to-leaf-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/125-valid-palindrome.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/205-isomorphic-strings.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/328-odd-even-linked-list.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/299-bulls-and-cows.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/070-climbing-stairs.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/000-practice.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/303-range-sum-query-immutable.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/059-spiral-matrix-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/137-single-number-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/242-valid-anagram.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/342-power-of-four.cpp" isTestSource="false" />
@@ -54,7 +54,7 @@
       <sourceFolder url="file://$MODULE_DIR$/080-remove-duplicates-from-sorted-array-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/014-longest-common-prefix.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/122-best-time-to-buy-and-sell-stock-ii.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/101-symmetric-tree.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/303-range-sum-query-immutable.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/326-power-of-three.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/104-maximum-depth-of-binary-tree.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/318-maximum-product-of-word-lengths.cpp" isTestSource="false" />
@@ -106,13 +106,14 @@
       <sourceFolder url="file://$MODULE_DIR$/165-compare-version-numbers.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/168-excel-sheet-column-title.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/027-remove-element.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/059-spiral-matrix-ii.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/347-top-k-frequent-elements.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/067-add-binary.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/389-find-the-difference.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/219-contains-duplicate-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/160-intersection-of-two-linked-lists.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/100-same-tree.cpp" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/347-top-k-frequent-elements.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/217-contains-duplicate.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/092-reverse-linked-list-ii.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/201-bitwise-and-of-numbers-range.cpp" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/290-word-pattern.cpp" isTestSource="false" />
