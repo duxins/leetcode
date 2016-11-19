@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F373-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F425-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -377,7 +377,59 @@
 |   | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)  |  | Easy | 
 |   | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)  |  | Medium | 
 | ✅ | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/)  | [Source](./389-find-the-difference.cpp) | Easy | 
+|   | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/)  |  | Medium | 
 |   | 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)  |  | Hard | 
+|   | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)  |  | Medium | 
+|   | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)  |  | Medium | 
+|   | 394 | [Decode String](https://leetcode.com/problems/decode-string/)  |  | Medium | 
+|   | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)  |  | Medium | 
+|   | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/)  |  | Easy | 
+|   | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/)  |  | Medium | 
+|   | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/)  |  | Medium | 
+|   | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/)  |  | Medium | 
+|   | 400 | [Nth Digit](https://leetcode.com/problems/nth-digit/)  |  | Easy | 
+|   | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/)  |  | Easy | 
+|   | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)  |  | Medium | 
+|   | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/)  |  | Hard | 
+|   | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)  |  | Easy | 
+|   | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)  |  | Easy | 
+|   | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  |  | Medium | 
+|   | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)  |  | Hard | 
+|   | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🔒 |  | Easy | 
+|   | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)  |  | Easy | 
+|   | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)  |  | Hard | 
+|   | 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) 🔒 |  | Hard | 
+|   | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  |  | Easy | 
+|   | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)  |  | Medium | 
+|   | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)  |  | Easy | 
+|   | 415 | [Add Strings](https://leetcode.com/problems/add-strings/)  |  | Easy | 
+|   | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)  |  | Medium | 
+|   | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)  |  | Medium | 
+|   | 418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) 🔒 |  | Medium | 
+|   | 419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)  |  | Medium | 
+|   | 420 | [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)  |  | Hard | 
+|   | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)  |  | Medium | 
+|   | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) 🔒 |  | Easy | 
+|   | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)  |  | Medium | 
+|   | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  | Medium | 
+|   | 425 | [Word Squares](https://leetcode.com/problems/word-squares/) 🔒 |  | Hard | 
+|   | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)  |  | Hard | 
+|   | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  | Medium | 
+|   | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)  |  | Medium | 
+|   | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)  |  | Easy | 
+|   | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  |  | Easy | 
+|   | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) 🔒 |  | Medium | 
+|   | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)  |  | Hard | 
+|   | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  |  | Easy | 
+|   | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) 🔒 |  | Medium | 
+|   | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)  |  | Hard | 
+|   | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)  |  | Easy | 
+|   | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)  |  | Medium | 
+|   | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)  |  | Easy | 
+|   | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)  |  | Medium | 
+|   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  |  | Easy | 
+|   | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)  |  | Medium | 
+|   | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
