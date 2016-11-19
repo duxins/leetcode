@@ -4,29 +4,34 @@
 # Inspired by https://github.com/lexrus/LeetCode.swift/blob/master/Rakefile
 #
 
-require 'nokogiri'
 require 'open-uri'
+require 'net/http'
+require 'json'
 
 task :sync do
-  doc = Nokogiri::HTML(open("https://leetcode.com/problemset/algorithms/"))
-  problems = doc.css('#problemList tbody tr')
+  url = "https://leetcode.com/api/problems/algorithms/"
+  doc = Net::HTTP.get(URI.parse(url))
+  json = JSON.parse(doc)
 
-  problems = problems.map do |tr|
-    id = tr.at('td:nth-child(2)').text.rjust(3, '0')
-    a = tr.at('td:nth-child(3) a')
-    href = a.attributes['href'].text
-    title = a.text
-    locked = tr.at('td:nth-child(3) i').nil? ? false : true
-    difficulty =  tr.at('td:last').text
+  pairs = json['stat_status_pairs']
 
-    target = id + '-' + href.split('/').last
+  problems = pairs.map do |pair|
+    stat = pair['stat']
+    locked = pair['paid_only']
+    level = pair['difficulty']['level']
+
+    id = stat['question_id'].to_s.rjust(3, '0')
+    slug = stat['question__title_slug'] 
+    title = stat['question__title']
+    difficulty = {1 => 'Easy', 2 => 'Medium', 3=>'Hard'}[level]
+
+    target = id.to_s + '-' + slug
     source_file = File.expand_path("../#{target}.cpp", __FILE__)
-
     finished = File.exists?(source_file)
 
     "| #{finished ? '✅' : ' '} " << 
     "| #{id} " <<
-    "| [#{title}](https://leetcode.com#{href}) " << (locked ? "🔒 " : " ") <<
+    "| [#{title}](https://leetcode.com/problems/#{slug}/) " << (locked ? "🔒 " : " ") <<
     "| "  << (finished ? "[Source](./#{target}.cpp) " : " ") << 
     "| #{difficulty} " << 
     "| "
