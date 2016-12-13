@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F425-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F438-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -414,6 +414,7 @@
 |   | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)  |  | Medium | 
 |   | 425 | [Word Squares](https://leetcode.com/problems/word-squares/) 🔒 |  | Hard | 
 |   | 432 | [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)  |  | Hard | 
+|   | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)  |  | Easy | 
 |   | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)  |  | Medium | 
 |   | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/)  |  | Medium | 
 |   | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/)  |  | Easy | 
@@ -430,6 +431,18 @@
 |   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  |  | Easy | 
 |   | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)  |  | Medium | 
 |   | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  |  | Easy | 
+|   | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)  |  | Medium | 
+|   | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  |  | Easy | 
+|   | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/)  |  | Medium | 
+|   | 465 | [Optimal Account Balancing](https://leetcode.com/problems/optimal-account-balancing/) 🔒 |  | Hard | 
+|   | 466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)  |  | Hard | 
+|   | 467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)  |  | Medium | 
+|   | 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)  |  | Medium | 
+|   | 469 | [Convex Polygon](https://leetcode.com/problems/convex-polygon/) 🔒 |  | Medium | 
+|   | 471 | [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/) 🔒 |  | Hard | 
+|   | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)  |  | Medium | 
+|   | 475 | [Heaters](https://leetcode.com/problems/heaters/)  |  | Easy | 
+|   | 476 | [Number Complement](https://leetcode.com/problems/number-complement/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
