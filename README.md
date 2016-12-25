@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F438-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F448-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -422,15 +422,22 @@
 |   | 439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) 🔒 |  | Medium | 
 |   | 440 | [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)  |  | Hard | 
 |   | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/)  |  | Easy | 
+|   | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)  |  | Medium | 
 |   | 444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) 🔒 |  | Medium | 
+|   | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)  |  | Medium | 
 |   | 446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)  |  | Hard | 
 |   | 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)  |  | Easy | 
+|   | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)  |  | Easy | 
+|   | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)  |  | Medium | 
+|   | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)  |  | Medium | 
+|   | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)  |  | Medium | 
 |   | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)  |  | Medium | 
 |   | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)  |  | Easy | 
 |   | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/)  |  | Medium | 
 |   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  |  | Easy | 
 |   | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)  |  | Medium | 
 |   | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  |  | Easy | 
+|   | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  |  | Easy | 
 |   | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)  |  | Medium | 
 |   | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  |  | Easy | 
 |   | 464 | [Can I Win](https://leetcode.com/problems/can-i-win/)  |  | Medium | 
@@ -440,9 +447,12 @@
 |   | 468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)  |  | Medium | 
 |   | 469 | [Convex Polygon](https://leetcode.com/problems/convex-polygon/) 🔒 |  | Medium | 
 |   | 471 | [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/) 🔒 |  | Hard | 
+|   | 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/)  |  | Hard | 
+|   | 473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)  |  | Medium | 
 |   | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)  |  | Medium | 
 |   | 475 | [Heaters](https://leetcode.com/problems/heaters/)  |  | Easy | 
 |   | 476 | [Number Complement](https://leetcode.com/problems/number-complement/)  |  | Easy | 
+|   | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
