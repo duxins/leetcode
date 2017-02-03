@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F448-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F466-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -10,9 +10,9 @@
 |   | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  | Medium | 
 |   | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  | Hard | 
 |   | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  |  | Medium | 
-| ✅ | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Source](./006-zigzag-conversion.cpp) | Easy | 
+| ✅ | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Source](./006-zigzag-conversion.cpp) | Medium | 
 | ✅ | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [Source](./007-reverse-integer.cpp) | Easy | 
-| ✅ | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [Source](./008-string-to-integer-atoi.cpp) | Easy | 
+| ✅ | 008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)  | [Source](./008-string-to-integer-atoi.cpp) | Medium | 
 | ✅ | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [Source](./009-palindrome-number.cpp) | Easy | 
 |   | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  |  | Hard | 
 | ✅ | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [Source](./011-container-with-most-water.cpp) | Medium | 
@@ -23,12 +23,12 @@
 |   | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  |  | Medium | 
 |   | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  | Medium | 
 |   | 018 | [4Sum](https://leetcode.com/problems/4sum/)  |  | Medium | 
-| ✅ | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Source](./019-remove-nth-node-from-end-of-list.cpp) | Easy | 
+| ✅ | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)  | [Source](./019-remove-nth-node-from-end-of-list.cpp) | Medium | 
 | ✅ | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [Source](./020-valid-parentheses.cpp) | Easy | 
 | ✅ | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [Source](./021-merge-two-sorted-lists.cpp) | Easy | 
 |   | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  | Medium | 
 |   | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)  |  | Hard | 
-| ✅ | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [Source](./024-swap-nodes-in-pairs.cpp) | Easy | 
+| ✅ | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  | [Source](./024-swap-nodes-in-pairs.cpp) | Medium | 
 |   | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)  |  | Hard | 
 | ✅ | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  | [Source](./026-remove-duplicates-from-sorted-array.cpp) | Easy | 
 | ✅ | 027 | [Remove Element](https://leetcode.com/problems/remove-element/)  | [Source](./027-remove-element.cpp) | Easy | 
@@ -37,10 +37,10 @@
 |   | 030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)  |  | Hard | 
 |   | 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)  |  | Medium | 
 |   | 032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)  |  | Hard | 
-|   | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  | Hard | 
+|   | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  |  | Medium | 
 |   | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/)  |  | Medium | 
-| ✅ | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [Source](./035-search-insert-position.cpp) | Medium | 
-| ✅ | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [Source](./036-valid-sudoku.cpp) | Easy | 
+| ✅ | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | [Source](./035-search-insert-position.cpp) | Easy | 
+| ✅ | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [Source](./036-valid-sudoku.cpp) | Medium | 
 |   | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)  |  | Hard | 
 |   | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/)  |  | Easy | 
 |   | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/)  |  | Medium | 
@@ -57,10 +57,10 @@
 | ✅ | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)  | [Source](./050-powx-n.cpp) | Medium | 
 |   | 051 | [N-Queens](https://leetcode.com/problems/n-queens/)  |  | Hard | 
 |   | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)  |  | Hard | 
-| ✅ | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [Source](./053-maximum-subarray.cpp) | Medium | 
+| ✅ | 053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  | [Source](./053-maximum-subarray.cpp) | Easy | 
 |   | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)  |  | Medium | 
 |   | 055 | [Jump Game](https://leetcode.com/problems/jump-game/)  |  | Medium | 
-|   | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  | Hard | 
+|   | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)  |  | Medium | 
 |   | 057 | [Insert Interval](https://leetcode.com/problems/insert-interval/)  |  | Hard | 
 | ✅ | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)  | [Source](./058-length-of-last-word.cpp) | Easy | 
 | ✅ | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)  | [Source](./059-spiral-matrix-ii.cpp) | Medium | 
@@ -73,7 +73,7 @@
 | ✅ | 066 | [Plus One](https://leetcode.com/problems/plus-one/)  | [Source](./066-plus-one.cpp) | Easy | 
 | ✅ | 067 | [Add Binary](https://leetcode.com/problems/add-binary/)  | [Source](./067-add-binary.cpp) | Easy | 
 |   | 068 | [Text Justification](https://leetcode.com/problems/text-justification/)  |  | Hard | 
-| ✅ | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [Source](./069-sqrtx.cpp) | Medium | 
+| ✅ | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  | [Source](./069-sqrtx.cpp) | Easy | 
 | ✅ | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)  | [Source](./070-climbing-stairs.cpp) | Easy | 
 |   | 071 | [Simplify Path](https://leetcode.com/problems/simplify-path/)  |  | Medium | 
 |   | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/)  |  | Hard | 
@@ -106,13 +106,13 @@
 |   | 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)  |  | Hard | 
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/)  | [Source](./100-same-tree.cpp) | Easy | 
 | ✅ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)  | [Source](./101-symmetric-tree.cpp) | Easy | 
-| ✅ | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | [Source](./102-binary-tree-level-order-traversal.cpp) | Easy | 
+| ✅ | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  | [Source](./102-binary-tree-level-order-traversal.cpp) | Medium | 
 |   | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)  |  | Medium | 
 | ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)  | [Source](./104-maximum-depth-of-binary-tree.cpp) | Easy | 
 |   | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  |  | Medium | 
 |   | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  |  | Medium | 
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)  | [Source](./107-binary-tree-level-order-traversal-ii.cpp) | Easy | 
-| ✅ | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  | [Source](./108-convert-sorted-array-to-binary-search-tree.cpp) | Medium | 
+| ✅ | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  | [Source](./108-convert-sorted-array-to-binary-search-tree.cpp) | Easy | 
 |   | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)  |  | Medium | 
 | ✅ | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  | [Source](./110-balanced-binary-tree.cpp) | Easy | 
 | ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  | [Source](./111-minimum-depth-of-binary-tree.cpp) | Easy | 
@@ -121,12 +121,12 @@
 | ✅ | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Source](./114-flatten-binary-tree-to-linked-list.cpp) | Medium | 
 |   | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)  |  | Hard | 
 |   | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  | Medium | 
-|   | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)  |  | Hard | 
+|   | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)  |  | Medium | 
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  | [Source](./118-pascals-triangle.cpp) | Easy | 
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)  | [Source](./119-pascals-triangle-ii.cpp) | Easy | 
 |   | 120 | [Triangle](https://leetcode.com/problems/triangle/)  |  | Medium | 
 | ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  | [Source](./121-best-time-to-buy-and-sell-stock.cpp) | Easy | 
-| ✅ | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Source](./122-best-time-to-buy-and-sell-stock-ii.cpp) | Medium | 
+| ✅ | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)  | [Source](./122-best-time-to-buy-and-sell-stock-ii.cpp) | Easy | 
 |   | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)  |  | Hard | 
 |   | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)  |  | Hard | 
 | ✅ | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  | [Source](./125-valid-palindrome.cpp) | Easy | 
@@ -142,7 +142,7 @@
 |   | 135 | [Candy](https://leetcode.com/problems/candy/)  |  | Hard | 
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/)  | [Source](./136-single-number.cpp) | Easy | 
 | ✅ | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | [Source](./137-single-number-ii.cpp) | Medium | 
-|   | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  | Hard | 
+|   | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  | Medium | 
 |   | 139 | [Word Break](https://leetcode.com/problems/word-break/)  |  | Medium | 
 |   | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/)  |  | Hard | 
 | ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)  | [Source](./141-linked-list-cycle.cpp) | Easy | 
@@ -169,9 +169,9 @@
 |   | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)  |  | Medium | 
 |   | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) 🔒 |  | Medium | 
 |   | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)  |  | Hard | 
-| ✅ | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [Source](./165-compare-version-numbers.cpp) | Easy | 
+| ✅ | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [Source](./165-compare-version-numbers.cpp) | Medium | 
 |   | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)  |  | Medium | 
-|   | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  |  | Medium | 
+|   | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  |  | Easy | 
 | ✅ | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [Source](./168-excel-sheet-column-title.cpp) | Easy | 
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)  | [Source](./169-majority-element.cpp) | Easy | 
 |   | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔒 |  | Easy | 
@@ -211,7 +211,7 @@
 |   | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)  |  | Medium | 
 |   | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/)  |  | Medium | 
 |   | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  |  | Medium | 
-| ✅ | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)  | [Source](./223-rectangle-area.cpp) | Easy | 
+| ✅ | 223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)  | [Source](./223-rectangle-area.cpp) | Medium | 
 |   | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/)  |  | Hard | 
 | ✅ | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  | [Source](./225-implement-stack-using-queues.cpp) | Easy | 
 | ✅ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)  | [Source](./226-invert-binary-tree.cpp) | Easy | 
@@ -237,14 +237,14 @@
 |   | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) 🔒 |  | Easy | 
 |   | 247 | [Strobogrammatic Number II](https://leetcode.com/problems/strobogrammatic-number-ii/) 🔒 |  | Medium | 
 |   | 248 | [Strobogrammatic Number III](https://leetcode.com/problems/strobogrammatic-number-iii/) 🔒 |  | Hard | 
-|   | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) 🔒 |  | Easy | 
+|   | 249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) 🔒 |  | Medium | 
 |   | 250 | [Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) 🔒 |  | Medium | 
 |   | 251 | [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) 🔒 |  | Medium | 
 |   | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 🔒 |  | Easy | 
 |   | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 🔒 |  | Medium | 
 |   | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/) 🔒 |  | Medium | 
 |   | 255 | [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) 🔒 |  | Medium | 
-|   | 256 | [Paint House](https://leetcode.com/problems/paint-house/) 🔒 |  | Medium | 
+|   | 256 | [Paint House](https://leetcode.com/problems/paint-house/) 🔒 |  | Easy | 
 | ✅ | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)  | [Source](./257-binary-tree-paths.cpp) | Easy | 
 | ✅ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/)  | [Source](./258-add-digits.cpp) | Easy | 
 |   | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) 🔒 |  | Medium | 
@@ -255,7 +255,7 @@
 |   | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) 🔒 |  | Hard | 
 |   | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔒 |  | Easy | 
 |   | 267 | [Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii/) 🔒 |  | Medium | 
-| ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)  | [Source](./268-missing-number.cpp) | Medium | 
+| ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/)  | [Source](./268-missing-number.cpp) | Easy | 
 |   | 269 | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) 🔒 |  | Hard | 
 |   | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) 🔒 |  | Easy | 
 |   | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) 🔒 |  | Medium | 
@@ -274,8 +274,8 @@
 |   | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  |  | Medium | 
 |   | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) 🔒 |  | Medium | 
 |   | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) 🔒 |  | Medium | 
-|   | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |  | Hard | 
-|   | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) 🔒 |  | Easy | 
+|   | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  |  | Medium | 
+|   | 288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) 🔒 |  | Medium | 
 |   | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/)  |  | Medium | 
 | ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/)  | [Source](./290-word-pattern.cpp) | Easy | 
 |   | 291 | [Word Pattern II](https://leetcode.com/problems/word-pattern-ii/) 🔒 |  | Hard | 
@@ -286,7 +286,7 @@
 |   | 296 | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) 🔒 |  | Hard | 
 |   | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)  |  | Hard | 
 |   | 298 | [Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) 🔒 |  | Medium | 
-| ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [Source](./299-bulls-and-cows.cpp) | Easy | 
+| ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)  | [Source](./299-bulls-and-cows.cpp) | Medium | 
 |   | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)  |  | Medium | 
 |   | 301 | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)  |  | Hard | 
 |   | 302 | [Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/) 🔒 |  | Hard | 
@@ -354,7 +354,7 @@
 |   | 364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) 🔒 |  | Medium | 
 |   | 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)  |  | Medium | 
 |   | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) 🔒 |  | Medium | 
-| ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [Source](./367-valid-perfect-square.cpp) | Medium | 
+| ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)  | [Source](./367-valid-perfect-square.cpp) | Easy | 
 |   | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  |  | Medium | 
 |   | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) 🔒 |  | Medium | 
 |   | 370 | [Range Addition](https://leetcode.com/problems/range-addition/) 🔒 |  | Medium | 
@@ -367,7 +367,7 @@
 |   | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)  |  | Medium | 
 |   | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)  |  | Medium | 
 |   | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) 🔒 |  | Medium | 
-|   | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  |  | Hard | 
+|   | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  |  | Medium | 
 |   | 381 | [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)  |  | Hard | 
 |   | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)  |  | Medium | 
 |   | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)  |  | Easy | 
@@ -383,7 +383,7 @@
 |   | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)  |  | Medium | 
 |   | 394 | [Decode String](https://leetcode.com/problems/decode-string/)  |  | Medium | 
 |   | 395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)  |  | Medium | 
-|   | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/)  |  | Easy | 
+|   | 396 | [Rotate Function](https://leetcode.com/problems/rotate-function/)  |  | Medium | 
 |   | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/)  |  | Medium | 
 |   | 398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/)  |  | Medium | 
 |   | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/)  |  | Medium | 
@@ -437,6 +437,7 @@
 |   | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/)  |  | Easy | 
 |   | 456 | [132 Pattern](https://leetcode.com/problems/132-pattern/)  |  | Medium | 
 |   | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)  |  | Easy | 
+|   | 460 | [LFU Cache](https://leetcode.com/problems/lfu-cache/)  |  | Hard | 
 |   | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/)  |  | Easy | 
 |   | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)  |  | Medium | 
 |   | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  |  | Easy | 
@@ -453,6 +454,23 @@
 |   | 475 | [Heaters](https://leetcode.com/problems/heaters/)  |  | Easy | 
 |   | 476 | [Number Complement](https://leetcode.com/problems/number-complement/)  |  | Easy | 
 |   | 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)  |  | Medium | 
+|   | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)  |  | Hard | 
+|   | 481 | [Magical String](https://leetcode.com/problems/magical-string/)  |  | Medium | 
+|   | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  |  | Medium | 
+|   | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)  |  | Hard | 
+|   | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) 🔒 |  | Medium | 
+|   | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  |  | Easy | 
+|   | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)  |  | Medium | 
+|   | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) 🔒 |  | Medium | 
+|   | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/)  |  | Hard | 
+|   | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔒 |  | Medium | 
+|   | 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)  |  | Medium | 
+|   | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)  |  | Easy | 
+|   | 494 | [Target Sum](https://leetcode.com/problems/target-sum/)  |  | Medium | 
+|   | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)  |  | Medium | 
+|   | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) 🔒 |  | Hard | 
+|   | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  |  | Easy | 
+|   | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) 🔒 |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
