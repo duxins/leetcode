@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F466-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-121%2F477-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -468,9 +468,20 @@
 |   | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)  |  | Easy | 
 |   | 494 | [Target Sum](https://leetcode.com/problems/target-sum/)  |  | Medium | 
 |   | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)  |  | Medium | 
+|   | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  |  | Easy | 
+|   | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)  |  | Medium | 
 |   | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) 🔒 |  | Hard | 
+|   | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)  |  | Easy | 
 |   | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  |  | Easy | 
+|   | 502 | [IPO](https://leetcode.com/problems/ipo/)  |  | Hard | 
+|   | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  |  | Medium | 
 |   | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) 🔒 |  | Medium | 
+|   | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)  |  | Easy | 
+|   | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)  |  | Medium | 
+|   | 509 | [Points in Intervals](https://leetcode.com/problems/points-in-intervals/)  |  | Easy | 
+|   | 510 | [Design Logging](https://leetcode.com/problems/design-logging/)  |  | Easy | 
+|   | 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/problems/string-lengths-average-and-95th-percentile/)  |  | Easy | 
+|   | 512 | [Price Query System](https://leetcode.com/problems/price-query-system/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
