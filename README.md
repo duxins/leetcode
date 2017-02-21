@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-121%2F477-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-122%2F482-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -7,7 +7,7 @@
 |---|-----|-------|-------|-------------|
 | ✅ | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [Source](./001-two-sum.cpp) | Easy | 
 | ✅ | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [Source](./002-add-two-numbers.cpp) | Medium | 
-|   | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  | Medium | 
+| ✅ | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Source](./003-longest-substring-without-repeating-characters.cpp) | Medium | 
 |   | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  | Hard | 
 |   | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)  |  | Medium | 
 | ✅ | 006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  | [Source](./006-zigzag-conversion.cpp) | Medium | 
@@ -466,6 +466,7 @@
 |   | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔒 |  | Medium | 
 |   | 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)  |  | Medium | 
 |   | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)  |  | Easy | 
+|   | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)  |  | Hard | 
 |   | 494 | [Target Sum](https://leetcode.com/problems/target-sum/)  |  | Medium | 
 |   | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)  |  | Medium | 
 |   | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  |  | Easy | 
@@ -475,6 +476,7 @@
 |   | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  |  | Easy | 
 |   | 502 | [IPO](https://leetcode.com/problems/ipo/)  |  | Hard | 
 |   | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  |  | Medium | 
+|   | 504 | [Base 7](https://leetcode.com/problems/base-7/)  |  | Easy | 
 |   | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) 🔒 |  | Medium | 
 |   | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)  |  | Easy | 
 |   | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)  |  | Medium | 
@@ -482,6 +484,9 @@
 |   | 510 | [Design Logging](https://leetcode.com/problems/design-logging/)  |  | Easy | 
 |   | 511 | [String Lengths Average and 95th Percentile](https://leetcode.com/problems/string-lengths-average-and-95th-percentile/)  |  | Easy | 
 |   | 512 | [Price Query System](https://leetcode.com/problems/price-query-system/)  |  | Easy | 
+|   | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)  |  | Medium | 
+|   | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  |  | Medium | 
+|   | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
