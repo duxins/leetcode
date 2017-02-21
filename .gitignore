@@ -3,5 +3,7 @@
 .idea/dictionaries
 .idea/vcs.xml
 
+/cmake-build-debug/
+
 /000-practice.cpp
 
