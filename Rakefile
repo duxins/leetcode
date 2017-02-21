@@ -7,6 +7,7 @@
 require 'open-uri'
 require 'net/http'
 require 'json'
+require 'nokogiri'
 
 task :sync do
   url = "https://leetcode.com/api/problems/algorithms/"
