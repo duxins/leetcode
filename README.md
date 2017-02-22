@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-122%2F482-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-123%2F486-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -16,7 +16,7 @@
 | ✅ | 009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [Source](./009-palindrome-number.cpp) | Easy | 
 |   | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)  |  | Hard | 
 | ✅ | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)  | [Source](./011-container-with-most-water.cpp) | Medium | 
-|   | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  |  | Medium | 
+| ✅ | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [Source](./012-integer-to-roman.cpp) | Medium | 
 |   | 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  |  | Easy | 
 | ✅ | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  | [Source](./014-longest-common-prefix.cpp) | Easy | 
 |   | 015 | [3Sum](https://leetcode.com/problems/3sum/)  |  | Medium | 
@@ -487,6 +487,10 @@
 |   | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)  |  | Medium | 
 |   | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  |  | Medium | 
 |   | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)  |  | Medium | 
+|   | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)  |  | Hard | 
+|   | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/)  |  | Easy | 
+|   | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  |  | Medium | 
+|   | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)  |  | Medium | 
 
 [//]: # (PROBLEMS END)
 
