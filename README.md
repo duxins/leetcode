@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-124%2F486-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-125%2F486-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -476,7 +476,7 @@
 |   | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  |  | Easy | 
 |   | 502 | [IPO](https://leetcode.com/problems/ipo/)  |  | Hard | 
 |   | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  |  | Medium | 
-|   | 504 | [Base 7](https://leetcode.com/problems/base-7/)  |  | Easy | 
+| ✅ | 504 | [Base 7](https://leetcode.com/problems/base-7/)  | [Source](./504-base-7.cpp) | Easy | 
 |   | 505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) 🔒 |  | Medium | 
 |   | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/)  |  | Easy | 
 |   | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)  |  | Medium | 
