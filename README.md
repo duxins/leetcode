@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-123%2F486-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-124%2F486-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -488,7 +488,7 @@
 |   | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)  |  | Medium | 
 |   | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)  |  | Medium | 
 |   | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)  |  | Hard | 
-|   | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/)  |  | Easy | 
+| ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/)  | [Source](./520-detect-capital.cpp) | Easy | 
 |   | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  |  | Medium | 
 |   | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)  |  | Medium | 
 
