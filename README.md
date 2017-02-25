@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-125%2F486-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-126%2F486-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -472,7 +472,7 @@
 |   | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  |  | Easy | 
 |   | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)  |  | Medium | 
 |   | 499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) 🔒 |  | Hard | 
-|   | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)  |  | Easy | 
+| ✅ | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/)  | [Source](./500-keyboard-row.cpp) | Easy | 
 |   | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)  |  | Easy | 
 |   | 502 | [IPO](https://leetcode.com/problems/ipo/)  |  | Hard | 
 |   | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)  |  | Medium | 
