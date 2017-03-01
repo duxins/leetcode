@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="500-keyboard-row" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="500-keyboard-row" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="500-keyboard-row">
+  <configuration default="false" name="500-keyboard-row" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="500-keyboard-row" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="500-keyboard-row" TEST_MODE="SUITE_TEST">
     <envs />
     <method />
   </configuration>

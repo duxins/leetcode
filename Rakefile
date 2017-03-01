@@ -8,6 +8,7 @@ require 'open-uri'
 require 'net/http'
 require 'json'
 require 'nokogiri'
+require 'pathname'
 
 task :sync do
   url = "https://leetcode.com/api/problems/algorithms/"
@@ -186,7 +187,7 @@ int main(int argc, char *argv[]) {
 
     configuration = (<<-EOT)
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="#{target}" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="#{target}" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="#{target}">
+  <configuration default="false" name="#{target}" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="#{target}" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="#{target}" TEST_MODE="SUITE_TEST">
     <envs />
     <method />
   </configuration>
@@ -203,3 +204,14 @@ int main(int argc, char *argv[]) {
 
 end
 
+task :update_config do
+  Pathname('.idea/runConfigurations').expand_path.find do |path|
+    if path.file? && path.basename.to_s =~ /.xml/
+      content = File.read(path)
+      content.gsub!('type="CMakeRunConfiguration"', 'type="CMakeGoogleTestRunConfigurationType"')
+      content.gsub!('factoryName="Application"', 'factoryName="Google Test"')
+      content.gsub!(/RUN_TARGET_NAME="(.*?)">/, 'RUN_TARGET_NAME="\1" TEST_MODE="SUITE_TEST">')
+      File.write(path, content)
+    end
+  end
+end

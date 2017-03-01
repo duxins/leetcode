@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="154-find-minimum-in-rotated-sorted-array-ii" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="154-find-minimum-in-rotated-sorted-array-ii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="154-find-minimum-in-rotated-sorted-array-ii">
+  <configuration default="false" name="154-find-minimum-in-rotated-sorted-array-ii" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" WORKING_DIR="" PASS_PARENT_ENVS_2="false" PROJECT_NAME="leetcode" TARGET_NAME="154-find-minimum-in-rotated-sorted-array-ii" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leetcode" RUN_TARGET_NAME="154-find-minimum-in-rotated-sorted-array-ii" TEST_MODE="SUITE_TEST">
     <envs />
     <method />
   </configuration>
