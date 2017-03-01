@@ -1,4 +1,4 @@
-![Progress](https://img.shields.io/badge/Progress-127%2F486-blue.svg)
+![Progress](https://img.shields.io/badge/Progress-128%2F490-blue.svg)
 
 
 [//]: # (PROBLEMS BEGIN)
@@ -459,7 +459,7 @@
 |   | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)  |  | Medium | 
 |   | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)  |  | Hard | 
 |   | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) 🔒 |  | Medium | 
-|   | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  |  | Easy | 
+| ✅ | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  | [Source](./485-max-consecutive-ones.cpp) | Easy | 
 |   | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/)  |  | Medium | 
 |   | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) 🔒 |  | Medium | 
 |   | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/)  |  | Hard | 
@@ -489,8 +489,12 @@
 |   | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)  |  | Medium | 
 |   | 517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)  |  | Hard | 
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/)  | [Source](./520-detect-capital.cpp) | Easy | 
+|   | 523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)  |  | Medium | 
+|   | 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)  |  | Medium | 
 |   | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)  |  | Medium | 
 |   | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)  |  | Medium | 
+|   | 529 | [Minesweeper](https://leetcode.com/problems/minesweeper/)  |  | Medium | 
+|   | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)  |  | Easy | 
 
 [//]: # (PROBLEMS END)
 
